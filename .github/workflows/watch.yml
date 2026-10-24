@@ -1,0 +1,57 @@
+name: TMB bed watcher
+
+on:
+  schedule:
+    # Cron is in UTC. Odd minutes avoid GitHub's top-of-the-hour congestion.
+    - cron: "3,18,33,48 * * * *"   # every 15 min, all day
+    # Extra checks every 5 min around midnight Swiss time.
+    # Summer (CEST, UTC+2): 23:50-00:55 Swiss = 21:50-22:55 UTC
+    # Winter (CET,  UTC+1): 23:50-00:30 Swiss = 22:50-23:30 UTC
+    - cron: "50,55 21 * * *"
+    - cron: "*/5 22 * * *"
+    - cron: "0-30/5 23 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "normal = real check | test-email = send a sample email | simulate = fake an opening to test the alert"
+        type: choice
+        options: [normal, test-email, simulate]
+        default: normal
+
+permissions:
+  contents: write   # to commit state.txt / changes.csv back to the repo
+
+concurrency:
+  group: watcher
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check availability
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          ALERT_TO: ${{ secrets.ALERT_TO }}
+        run: |
+          case "${{ inputs.mode }}" in
+            test-email) python3 watch.py --test-email ;;
+            simulate)   python3 watch.py --simulate ;;
+            *)          python3 watch.py ;;
+          esac
+
+      - name: Save state
+        if: ${{ inputs.mode == '' || inputs.mode == 'normal' }}
+        run: |
+          git config user.name "tmb-bed-watcher"
+          git config user.email "actions@users.noreply.github.com"
+          git add state.txt
+          [ -f changes.csv ] && git add changes.csv
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Availability update $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git pull --rebase -X theirs || true
+          git push

@@ -1,0 +1,14 @@
+{
+  "_comment": "Hut names must match montourdumontblanc.com exactly. Dates are DD/MM/YYYY.",
+  "watch": [
+    {"hut": "Auberge-Refuge de la Nova",     "date": "04/07/2027", "note": "Day 2 target"},
+    {"hut": "Les Chambres du Soleil",        "date": "04/07/2027", "note": "Day 2 backup"},
+    {"hut": "Refuge des Mottets",            "date": "04/07/2027", "note": "Day 2 backup"},
+    {"hut": "Cabane du Combal",              "date": "05/07/2027", "note": "Day 3 backup 1"},
+    {"hut": "Rifugio Maison Vieille",        "date": "05/07/2027", "note": "Day 3 backup 3"},
+    {"hut": "Rifugio Chapy Mont Blanc",      "date": "07/07/2027", "note": "Day 5 backup 2"},
+    {"hut": "Hôtel Funivia",                 "date": "07/07/2027", "note": "Day 5 backup 3"},
+    {"hut": "Auberge la Boërne",             "date": "10/07/2027", "note": "Day 8 backup 2"},
+    {"hut": "Chalet Alpin du Tour (FFCAM)",  "date": "10/07/2027", "note": "Day 8 backup 3"}
+  ]
+}
