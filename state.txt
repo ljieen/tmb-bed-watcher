@@ -12576,7 +12576,7 @@ Gîte Les Mélèzes	26/06/2027	5 available
 Gîte Les Mélèzes	26/06/2028	Close
 Gîte Les Mélèzes	26/07/2027	Fully booked
 Gîte Les Mélèzes	26/07/2028	Close
-Gîte Les Mélèzes	26/08/2027	6 available
+Gîte Les Mélèzes	26/08/2027	2 available
 Gîte Les Mélèzes	26/08/2028	Close
 Gîte Les Mélèzes	26/09/2027	Close
 Gîte Les Mélèzes	26/09/2028	Close
@@ -13752,7 +13752,7 @@ Gîte Michel Fagot	16/04/2027	Fully booked
 Gîte Michel Fagot	16/04/2028	Close
 Gîte Michel Fagot	16/05/2027	Fully booked
 Gîte Michel Fagot	16/05/2028	Close
-Gîte Michel Fagot	16/06/2027	20 available
+Gîte Michel Fagot	16/06/2027	19 available
 Gîte Michel Fagot	16/06/2028	Close
 Gîte Michel Fagot	16/07/2027	16 available
 Gîte Michel Fagot	16/07/2028	Close
@@ -13986,7 +13986,7 @@ Gîte Michel Fagot	26/06/2027	Fully booked
 Gîte Michel Fagot	26/06/2028	Close
 Gîte Michel Fagot	26/07/2027	11 available
 Gîte Michel Fagot	26/07/2028	Close
-Gîte Michel Fagot	26/08/2027	2 available
+Gîte Michel Fagot	26/08/2027	6 available
 Gîte Michel Fagot	26/08/2028	Close
 Gîte Michel Fagot	26/09/2027	Fully booked
 Gîte Michel Fagot	26/09/2028	Close
@@ -24352,7 +24352,7 @@ Refuge de Nant Borrant	17/04/2027	Close
 Refuge de Nant Borrant	17/04/2028	Close
 Refuge de Nant Borrant	17/05/2027	Close
 Refuge de Nant Borrant	17/05/2028	Close
-Refuge de Nant Borrant	17/06/2027	1 available
+Refuge de Nant Borrant	17/06/2027	Fully booked
 Refuge de Nant Borrant	17/06/2028	Close
 Refuge de Nant Borrant	17/07/2027	Fully booked
 Refuge de Nant Borrant	17/07/2028	Close
