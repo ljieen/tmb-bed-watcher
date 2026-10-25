@@ -3901,7 +3901,7 @@ Auberge la Boërne	17/04/2027	Fully booked
 Auberge la Boërne	17/04/2028	Close
 Auberge la Boërne	17/05/2027	Fully booked
 Auberge la Boërne	17/05/2028	Close
-Auberge la Boërne	17/06/2027	17 available
+Auberge la Boërne	17/06/2027	18 available
 Auberge la Boërne	17/06/2028	Close
 Auberge la Boërne	17/07/2027	Fully booked
 Auberge la Boërne	17/07/2028	Close
@@ -3924,7 +3924,7 @@ Auberge la Boërne	18/04/2027	Fully booked
 Auberge la Boërne	18/04/2028	Close
 Auberge la Boërne	18/05/2027	Fully booked
 Auberge la Boërne	18/05/2028	Close
-Auberge la Boërne	18/06/2027	14 available
+Auberge la Boërne	18/06/2027	13 available
 Auberge la Boërne	18/06/2028	Close
 Auberge la Boërne	18/07/2027	Fully booked
 Auberge la Boërne	18/07/2028	Close
@@ -4771,7 +4771,7 @@ Auberge la Grande Ourse	24/06/2027	14 available
 Auberge la Grande Ourse	24/06/2028	Close
 Auberge la Grande Ourse	24/07/2027	Fully booked
 Auberge la Grande Ourse	24/07/2028	Close
-Auberge la Grande Ourse	24/08/2027	14 available
+Auberge la Grande Ourse	24/08/2027	12 available
 Auberge la Grande Ourse	24/08/2028	Close
 Auberge la Grande Ourse	24/09/2027	Fully booked
 Auberge la Grande Ourse	24/09/2028	Close
@@ -8200,7 +8200,7 @@ Chalet La Grange	20/04/2027	8 available
 Chalet La Grange	20/04/2028	Close
 Chalet La Grange	20/05/2027	Fully booked
 Chalet La Grange	20/05/2028	Close
-Chalet La Grange	20/06/2027	10 available
+Chalet La Grange	20/06/2027	9 available
 Chalet La Grange	20/06/2028	Close
 Chalet La Grange	20/07/2027	3 available
 Chalet La Grange	20/07/2028	Close
@@ -8433,7 +8433,7 @@ Chalet La Grange	30/05/2027	Fully booked
 Chalet La Grange	30/05/2028	Close
 Chalet La Grange	30/06/2027	2 available
 Chalet La Grange	30/06/2028	Close
-Chalet La Grange	30/07/2027	8 available
+Chalet La Grange	30/07/2027	10 available
 Chalet La Grange	30/07/2028	Close
 Chalet La Grange	30/08/2027	11 available
 Chalet La Grange	30/08/2028	Close
@@ -11892,7 +11892,7 @@ Gîte Le Moulin	27/05/2027	Close
 Gîte Le Moulin	27/05/2028	Close
 Gîte Le Moulin	27/06/2027	Fully booked
 Gîte Le Moulin	27/06/2028	Close
-Gîte Le Moulin	27/07/2027	9 available
+Gîte Le Moulin	27/07/2027	10 available
 Gîte Le Moulin	27/07/2028	Close
 Gîte Le Moulin	27/08/2027	8 available
 Gîte Le Moulin	27/08/2028	Close
@@ -13752,7 +13752,7 @@ Gîte Michel Fagot	16/04/2027	Fully booked
 Gîte Michel Fagot	16/04/2028	Close
 Gîte Michel Fagot	16/05/2027	Fully booked
 Gîte Michel Fagot	16/05/2028	Close
-Gîte Michel Fagot	16/06/2027	19 available
+Gîte Michel Fagot	16/06/2027	20 available
 Gîte Michel Fagot	16/06/2028	Close
 Gîte Michel Fagot	16/07/2027	16 available
 Gîte Michel Fagot	16/07/2028	Close
@@ -13775,7 +13775,7 @@ Gîte Michel Fagot	17/04/2027	Fully booked
 Gîte Michel Fagot	17/04/2028	Close
 Gîte Michel Fagot	17/05/2027	Fully booked
 Gîte Michel Fagot	17/05/2028	Close
-Gîte Michel Fagot	17/06/2027	16 available
+Gîte Michel Fagot	17/06/2027	15 available
 Gîte Michel Fagot	17/06/2028	Close
 Gîte Michel Fagot	17/07/2027	17 available
 Gîte Michel Fagot	17/07/2028	Close
@@ -15326,7 +15326,7 @@ Gîte le Pontet	23/05/2027	Fully booked
 Gîte le Pontet	23/05/2028	Close
 Gîte le Pontet	23/06/2027	61 available
 Gîte le Pontet	23/06/2028	Close
-Gîte le Pontet	23/07/2027	21 available
+Gîte le Pontet	23/07/2027	23 available
 Gîte le Pontet	23/07/2028	Close
 Gîte le Pontet	23/08/2027	4 available
 Gîte le Pontet	23/08/2028	Close
@@ -17394,7 +17394,7 @@ Hôtel Edelweiss	21/04/2027	Close
 Hôtel Edelweiss	21/04/2028	Close
 Hôtel Edelweiss	21/05/2027	Close
 Hôtel Edelweiss	21/05/2028	Close
-Hôtel Edelweiss	21/06/2027	47 available
+Hôtel Edelweiss	21/06/2027	46 available
 Hôtel Edelweiss	21/06/2028	Close
 Hôtel Edelweiss	21/07/2027	1 available
 Hôtel Edelweiss	21/07/2028	Close
@@ -22987,7 +22987,7 @@ Refuge Le Peuty	19/04/2027	Close
 Refuge Le Peuty	19/04/2028	Close
 Refuge Le Peuty	19/05/2027	Close
 Refuge Le Peuty	19/05/2028	Close
-Refuge Le Peuty	19/06/2027	13 available
+Refuge Le Peuty	19/06/2027	12 available
 Refuge Le Peuty	19/06/2028	Close
 Refuge Le Peuty	19/07/2027	Fully booked
 Refuge Le Peuty	19/07/2028	Close
@@ -23966,7 +23966,7 @@ Refuge Les Ecuries de Charamillon	31/03/2027	Close
 Refuge Les Ecuries de Charamillon	31/03/2028	Close
 Refuge Les Ecuries de Charamillon	31/05/2027	Close
 Refuge Les Ecuries de Charamillon	31/05/2028	Close
-Refuge Les Ecuries de Charamillon	31/07/2027	39 available
+Refuge Les Ecuries de Charamillon	31/07/2027	41 available
 Refuge Les Ecuries de Charamillon	31/07/2028	Close
 Refuge Les Ecuries de Charamillon	31/08/2027	45 available
 Refuge Les Ecuries de Charamillon	31/08/2028	Close
@@ -29430,7 +29430,7 @@ Rifugio G. Bertone	23/05/2027	Close
 Rifugio G. Bertone	23/05/2028	Close
 Rifugio G. Bertone	23/06/2027	2 available
 Rifugio G. Bertone	23/06/2028	Close
-Rifugio G. Bertone	23/07/2027	2 available
+Rifugio G. Bertone	23/07/2027	1 available
 Rifugio G. Bertone	23/07/2028	Close
 Rifugio G. Bertone	23/08/2027	5 available
 Rifugio G. Bertone	23/08/2028	Close
@@ -30298,7 +30298,7 @@ Rifugio Maison Vieille	30/06/2027	Fully booked
 Rifugio Maison Vieille	30/06/2028	Close
 Rifugio Maison Vieille	30/07/2027	26 available
 Rifugio Maison Vieille	30/07/2028	Close
-Rifugio Maison Vieille	30/08/2027	12 available
+Rifugio Maison Vieille	30/08/2027	7 available
 Rifugio Maison Vieille	30/08/2028	Close
 Rifugio Maison Vieille	30/09/2027	Fully booked
 Rifugio Maison Vieille	30/09/2028	Close
