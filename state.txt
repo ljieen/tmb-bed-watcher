@@ -3901,7 +3901,7 @@ Auberge la Boërne	17/04/2027	Fully booked
 Auberge la Boërne	17/04/2028	Close
 Auberge la Boërne	17/05/2027	Fully booked
 Auberge la Boërne	17/05/2028	Close
-Auberge la Boërne	17/06/2027	18 available
+Auberge la Boërne	17/06/2027	17 available
 Auberge la Boërne	17/06/2028	Close
 Auberge la Boërne	17/07/2027	Fully booked
 Auberge la Boërne	17/07/2028	Close
@@ -7926,7 +7926,7 @@ Chalet La Grange	08/05/2027	Fully booked
 Chalet La Grange	08/05/2028	Close
 Chalet La Grange	08/06/2027	Fully booked
 Chalet La Grange	08/06/2028	Close
-Chalet La Grange	08/07/2027	2 available
+Chalet La Grange	08/07/2027	4 available
 Chalet La Grange	08/07/2028	Close
 Chalet La Grange	08/08/2027	9 available
 Chalet La Grange	08/08/2028	Close
@@ -11892,7 +11892,7 @@ Gîte Le Moulin	27/05/2027	Close
 Gîte Le Moulin	27/05/2028	Close
 Gîte Le Moulin	27/06/2027	Fully booked
 Gîte Le Moulin	27/06/2028	Close
-Gîte Le Moulin	27/07/2027	13 available
+Gîte Le Moulin	27/07/2027	9 available
 Gîte Le Moulin	27/07/2028	Close
 Gîte Le Moulin	27/08/2027	8 available
 Gîte Le Moulin	27/08/2028	Close
@@ -15326,7 +15326,7 @@ Gîte le Pontet	23/05/2027	Fully booked
 Gîte le Pontet	23/05/2028	Close
 Gîte le Pontet	23/06/2027	61 available
 Gîte le Pontet	23/06/2028	Close
-Gîte le Pontet	23/07/2027	23 available
+Gîte le Pontet	23/07/2027	21 available
 Gîte le Pontet	23/07/2028	Close
 Gîte le Pontet	23/08/2027	4 available
 Gîte le Pontet	23/08/2028	Close
@@ -24352,7 +24352,7 @@ Refuge de Nant Borrant	17/04/2027	Close
 Refuge de Nant Borrant	17/04/2028	Close
 Refuge de Nant Borrant	17/05/2027	Close
 Refuge de Nant Borrant	17/05/2028	Close
-Refuge de Nant Borrant	17/06/2027	Fully booked
+Refuge de Nant Borrant	17/06/2027	1 available
 Refuge de Nant Borrant	17/06/2028	Close
 Refuge de Nant Borrant	17/07/2027	Fully booked
 Refuge de Nant Borrant	17/07/2028	Close
