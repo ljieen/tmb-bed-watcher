@@ -7115,7 +7115,7 @@ Chalet Alpin du Tour (FFCAM)	04/07/2027	1 available
 Chalet Alpin du Tour (FFCAM)	04/07/2028	Close
 Chalet Alpin du Tour (FFCAM)	04/08/2027	10 available
 Chalet Alpin du Tour (FFCAM)	04/08/2028	Close
-Chalet Alpin du Tour (FFCAM)	04/09/2027	15 available
+Chalet Alpin du Tour (FFCAM)	04/09/2027	14 available
 Chalet Alpin du Tour (FFCAM)	04/09/2028	Close
 Chalet Alpin du Tour (FFCAM)	04/10/2027	Fully booked
 Chalet Alpin du Tour (FFCAM)	04/11/2026	Close
@@ -25195,7 +25195,7 @@ Refuge de la Balme	26/04/2027	Close
 Refuge de la Balme	26/04/2028	Close
 Refuge de la Balme	26/05/2027	Close
 Refuge de la Balme	26/05/2028	Close
-Refuge de la Balme	26/06/2027	1 available
+Refuge de la Balme	26/06/2027	Fully booked
 Refuge de la Balme	26/06/2028	Close
 Refuge de la Balme	26/07/2027	3 available
 Refuge de la Balme	26/07/2028	Close
@@ -28915,7 +28915,7 @@ Rifugio G. Bertone	04/07/2027	Fully booked
 Rifugio G. Bertone	04/07/2028	Close
 Rifugio G. Bertone	04/08/2027	Fully booked
 Rifugio G. Bertone	04/08/2028	Close
-Rifugio G. Bertone	04/09/2027	1 available
+Rifugio G. Bertone	04/09/2027	Fully booked
 Rifugio G. Bertone	04/09/2028	Close
 Rifugio G. Bertone	04/10/2027	Close
 Rifugio G. Bertone	04/11/2026	Close
