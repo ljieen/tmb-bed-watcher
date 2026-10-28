@@ -18319,7 +18319,7 @@ Hôtel Lavachey	03/07/2027	Fully booked
 Hôtel Lavachey	03/07/2028	Close
 Hôtel Lavachey	03/08/2027	Fully booked
 Hôtel Lavachey	03/08/2028	Close
-Hôtel Lavachey	03/09/2027	Fully booked
+Hôtel Lavachey	03/09/2027	3 available
 Hôtel Lavachey	03/09/2028	Close
 Hôtel Lavachey	03/10/2027	Close
 Hôtel Lavachey	03/11/2026	Close
