@@ -378,7 +378,7 @@ Auberge Gîte Bon Abri	17/05/2027	Fully booked
 Auberge Gîte Bon Abri	17/05/2028	Close
 Auberge Gîte Bon Abri	17/06/2027	38 available
 Auberge Gîte Bon Abri	17/06/2028	Close
-Auberge Gîte Bon Abri	17/07/2027	47 available
+Auberge Gîte Bon Abri	17/07/2027	45 available
 Auberge Gîte Bon Abri	17/07/2028	Close
 Auberge Gîte Bon Abri	17/08/2027	34 available
 Auberge Gîte Bon Abri	17/08/2028	Close
@@ -4726,7 +4726,7 @@ Auberge la Grande Ourse	23/04/2027	Fully booked
 Auberge la Grande Ourse	23/04/2028	Close
 Auberge la Grande Ourse	23/05/2027	Fully booked
 Auberge la Grande Ourse	23/05/2028	Close
-Auberge la Grande Ourse	23/06/2027	18 available
+Auberge la Grande Ourse	23/06/2027	20 available
 Auberge la Grande Ourse	23/06/2028	Close
 Auberge la Grande Ourse	23/07/2027	Fully booked
 Auberge la Grande Ourse	23/07/2028	Close
@@ -5176,7 +5176,7 @@ Auberge-Refuge de la Nova	12/04/2027	Fully booked
 Auberge-Refuge de la Nova	12/04/2028	Close
 Auberge-Refuge de la Nova	12/05/2027	Fully booked
 Auberge-Refuge de la Nova	12/05/2028	Close
-Auberge-Refuge de la Nova	12/06/2027	19 available
+Auberge-Refuge de la Nova	12/06/2027	14 available
 Auberge-Refuge de la Nova	12/06/2028	Close
 Auberge-Refuge de la Nova	12/07/2027	Fully booked
 Auberge-Refuge de la Nova	12/07/2028	Close
@@ -7893,7 +7893,7 @@ Chalet La Grange	08/05/2027	Fully booked
 Chalet La Grange	08/05/2028	Close
 Chalet La Grange	08/06/2027	Fully booked
 Chalet La Grange	08/06/2028	Close
-Chalet La Grange	08/07/2027	4 available
+Chalet La Grange	08/07/2027	2 available
 Chalet La Grange	08/07/2028	Close
 Chalet La Grange	08/08/2027	7 available
 Chalet La Grange	08/08/2028	Close
@@ -10028,7 +10028,7 @@ Gîte Alpage de La Peule	09/07/2027	8 available
 Gîte Alpage de La Peule	09/07/2028	Close
 Gîte Alpage de La Peule	09/08/2027	8 available
 Gîte Alpage de La Peule	09/08/2028	Close
-Gîte Alpage de La Peule	09/09/2027	31 available
+Gîte Alpage de La Peule	09/09/2027	22 available
 Gîte Alpage de La Peule	09/09/2028	Close
 Gîte Alpage de La Peule	09/10/2027	Fully booked
 Gîte Alpage de La Peule	09/11/2026	Fully booked
@@ -10887,7 +10887,7 @@ Gîte La Léchère	16/05/2027	Fully booked
 Gîte La Léchère	16/05/2028	Close
 Gîte La Léchère	16/06/2027	Fully booked
 Gîte La Léchère	16/06/2028	Close
-Gîte La Léchère	16/07/2027	9 available
+Gîte La Léchère	16/07/2027	7 available
 Gîte La Léchère	16/07/2028	Close
 Gîte La Léchère	16/08/2027	6 available
 Gîte La Léchère	16/08/2028	Close
@@ -11659,7 +11659,7 @@ Gîte Le Moulin	19/05/2027	Close
 Gîte Le Moulin	19/05/2028	Close
 Gîte Le Moulin	19/06/2027	11 available
 Gîte Le Moulin	19/06/2028	Close
-Gîte Le Moulin	19/07/2027	14 available
+Gîte Le Moulin	19/07/2027	12 available
 Gîte Le Moulin	19/07/2028	Close
 Gîte Le Moulin	19/08/2027	9 available
 Gîte Le Moulin	19/08/2028	Close
@@ -17529,7 +17529,7 @@ Hôtel Edelweiss	30/05/2027	Close
 Hôtel Edelweiss	30/05/2028	Close
 Hôtel Edelweiss	30/06/2027	Fully booked
 Hôtel Edelweiss	30/06/2028	Close
-Hôtel Edelweiss	30/07/2027	5 available
+Hôtel Edelweiss	30/07/2027	3 available
 Hôtel Edelweiss	30/07/2028	Close
 Hôtel Edelweiss	30/08/2027	4 available
 Hôtel Edelweiss	30/08/2028	Close
@@ -24681,7 +24681,7 @@ Refuge de la Balme	05/06/2027	Close
 Refuge de la Balme	05/06/2028	Close
 Refuge de la Balme	05/07/2027	Fully booked
 Refuge de la Balme	05/07/2028	Close
-Refuge de la Balme	05/08/2027	11 available
+Refuge de la Balme	05/08/2027	10 available
 Refuge de la Balme	05/08/2028	Close
 Refuge de la Balme	05/09/2027	1 available
 Refuge de la Balme	05/09/2028	Close
@@ -25609,7 +25609,7 @@ Refuge des Mottets	15/04/2027	Close
 Refuge des Mottets	15/04/2028	Close
 Refuge des Mottets	15/05/2027	Close
 Refuge des Mottets	15/05/2028	Close
-Refuge des Mottets	15/06/2027	8 available
+Refuge des Mottets	15/06/2027	6 available
 Refuge des Mottets	15/06/2028	Close
 Refuge des Mottets	15/07/2027	Fully booked
 Refuge des Mottets	15/07/2028	Close
