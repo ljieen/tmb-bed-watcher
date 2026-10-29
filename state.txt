@@ -8697,7 +8697,7 @@ Chalet Les Méandres (ex Tupilak)	13/04/2027	33 available
 Chalet Les Méandres (ex Tupilak)	13/04/2028	Close
 Chalet Les Méandres (ex Tupilak)	13/05/2027	33 available
 Chalet Les Méandres (ex Tupilak)	13/05/2028	Close
-Chalet Les Méandres (ex Tupilak)	13/06/2027	34 available
+Chalet Les Méandres (ex Tupilak)	13/06/2027	36 available
 Chalet Les Méandres (ex Tupilak)	13/06/2028	Close
 Chalet Les Méandres (ex Tupilak)	13/07/2027	38 available
 Chalet Les Méandres (ex Tupilak)	13/07/2028	Close
@@ -15359,7 +15359,7 @@ Gîte le Pontet	28/06/2027	Fully booked
 Gîte le Pontet	28/06/2028	Close
 Gîte le Pontet	28/07/2027	49 available
 Gîte le Pontet	28/07/2028	Close
-Gîte le Pontet	28/08/2027	24 available
+Gîte le Pontet	28/08/2027	35 available
 Gîte le Pontet	28/08/2028	Close
 Gîte le Pontet	28/09/2027	76 available
 Gîte le Pontet	28/09/2028	Close
