@@ -3472,7 +3472,7 @@ Auberge du Truc	30/04/2027	Fully booked
 Auberge du Truc	30/04/2028	Close
 Auberge du Truc	30/05/2027	Fully booked
 Auberge du Truc	30/05/2028	Close
-Auberge du Truc	30/06/2027	2 available
+Auberge du Truc	30/06/2027	Fully booked
 Auberge du Truc	30/06/2028	Close
 Auberge du Truc	30/07/2027	12 available
 Auberge du Truc	30/07/2028	Close
@@ -10000,7 +10000,7 @@ Gîte Alpage de La Peule	09/07/2027	8 available
 Gîte Alpage de La Peule	09/07/2028	Close
 Gîte Alpage de La Peule	09/08/2027	8 available
 Gîte Alpage de La Peule	09/08/2028	Close
-Gîte Alpage de La Peule	09/09/2027	18 available
+Gîte Alpage de La Peule	09/09/2027	22 available
 Gîte Alpage de La Peule	09/09/2028	Close
 Gîte Alpage de La Peule	09/10/2027	Fully booked
 Gîte Alpage de La Peule	09/11/2026	Fully booked
@@ -11562,7 +11562,7 @@ Gîte Le Moulin	16/07/2027	3 available
 Gîte Le Moulin	16/07/2028	Close
 Gîte Le Moulin	16/08/2027	16 available
 Gîte Le Moulin	16/08/2028	Close
-Gîte Le Moulin	16/09/2027	4 available
+Gîte Le Moulin	16/09/2027	7 available
 Gîte Le Moulin	16/09/2028	Close
 Gîte Le Moulin	16/10/2027	Fully booked
 Gîte Le Moulin	16/11/2026	Close
@@ -13933,7 +13933,7 @@ Gîte Michel Fagot	28/04/2027	Fully booked
 Gîte Michel Fagot	28/04/2028	Close
 Gîte Michel Fagot	28/05/2027	Fully booked
 Gîte Michel Fagot	28/05/2028	Close
-Gîte Michel Fagot	28/06/2027	13 available
+Gîte Michel Fagot	28/06/2027	11 available
 Gîte Michel Fagot	28/06/2028	Close
 Gîte Michel Fagot	28/07/2027	17 available
 Gîte Michel Fagot	28/07/2028	Close
@@ -27259,7 +27259,7 @@ Refuge du Fioux	29/04/2027	Close
 Refuge du Fioux	29/04/2028	Close
 Refuge du Fioux	29/05/2027	11 available
 Refuge du Fioux	29/05/2028	Close
-Refuge du Fioux	29/06/2027	3 available
+Refuge du Fioux	29/06/2027	1 available
 Refuge du Fioux	29/06/2028	Close
 Refuge du Fioux	29/07/2027	24 available
 Refuge du Fioux	29/07/2028	Close
@@ -27710,7 +27710,7 @@ Relais d'Arpette	18/05/2027	Close
 Relais d'Arpette	18/05/2028	Close
 Relais d'Arpette	18/06/2027	112 available
 Relais d'Arpette	18/06/2028	Close
-Relais d'Arpette	18/07/2027	72 available
+Relais d'Arpette	18/07/2027	69 available
 Relais d'Arpette	18/07/2028	Close
 Relais d'Arpette	18/08/2027	70 available
 Relais d'Arpette	18/08/2028	Close
@@ -29718,7 +29718,7 @@ Rifugio Maison Vieille	14/05/2027	Fully booked
 Rifugio Maison Vieille	14/05/2028	Close
 Rifugio Maison Vieille	14/06/2027	19 available
 Rifugio Maison Vieille	14/06/2028	Close
-Rifugio Maison Vieille	14/07/2027	5 available
+Rifugio Maison Vieille	14/07/2027	3 available
 Rifugio Maison Vieille	14/07/2028	Close
 Rifugio Maison Vieille	14/08/2027	23 available
 Rifugio Maison Vieille	14/08/2028	Close
