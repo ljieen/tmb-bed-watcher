@@ -221,7 +221,7 @@ Auberge Gîte Bon Abri	10/07/2027	15 available
 Auberge Gîte Bon Abri	10/07/2028	Close
 Auberge Gîte Bon Abri	10/08/2027	20 available
 Auberge Gîte Bon Abri	10/08/2028	Close
-Auberge Gîte Bon Abri	10/09/2027	34 available
+Auberge Gîte Bon Abri	10/09/2027	32 available
 Auberge Gîte Bon Abri	10/09/2028	Close
 Auberge Gîte Bon Abri	10/10/2027	Fully booked
 Auberge Gîte Bon Abri	10/11/2026	Fully booked
@@ -7330,7 +7330,7 @@ Chalet Alpin du Tour (FFCAM)	15/04/2027	20 available
 Chalet Alpin du Tour (FFCAM)	15/04/2028	Close
 Chalet Alpin du Tour (FFCAM)	15/05/2027	Fully booked
 Chalet Alpin du Tour (FFCAM)	15/05/2028	Close
-Chalet Alpin du Tour (FFCAM)	15/06/2027	18 available
+Chalet Alpin du Tour (FFCAM)	15/06/2027	20 available
 Chalet Alpin du Tour (FFCAM)	15/06/2028	Close
 Chalet Alpin du Tour (FFCAM)	15/07/2027	20 available
 Chalet Alpin du Tour (FFCAM)	15/07/2028	Close
@@ -17025,7 +17025,7 @@ Hôtel Edelweiss	10/06/2027	Close
 Hôtel Edelweiss	10/06/2028	Close
 Hôtel Edelweiss	10/07/2027	3 available
 Hôtel Edelweiss	10/07/2028	Close
-Hôtel Edelweiss	10/08/2027	10 available
+Hôtel Edelweiss	10/08/2027	7 available
 Hôtel Edelweiss	10/08/2028	Close
 Hôtel Edelweiss	10/09/2027	Fully booked
 Hôtel Edelweiss	10/09/2028	Close
@@ -30085,7 +30085,7 @@ Rifugio Maison Vieille	30/06/2027	Fully booked
 Rifugio Maison Vieille	30/06/2028	Close
 Rifugio Maison Vieille	30/07/2027	26 available
 Rifugio Maison Vieille	30/07/2028	Close
-Rifugio Maison Vieille	30/08/2027	12 available
+Rifugio Maison Vieille	30/08/2027	1 available
 Rifugio Maison Vieille	30/08/2028	Close
 Rifugio Maison Vieille	30/09/2027	Fully booked
 Rifugio Maison Vieille	30/09/2028	Close
