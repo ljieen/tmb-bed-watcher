@@ -3472,7 +3472,7 @@ Auberge du Truc	30/04/2027	Fully booked
 Auberge du Truc	30/04/2028	Close
 Auberge du Truc	30/05/2027	Fully booked
 Auberge du Truc	30/05/2028	Close
-Auberge du Truc	30/06/2027	Fully booked
+Auberge du Truc	30/06/2027	2 available
 Auberge du Truc	30/06/2028	Close
 Auberge du Truc	30/07/2027	12 available
 Auberge du Truc	30/07/2028	Close
@@ -7330,7 +7330,7 @@ Chalet Alpin du Tour (FFCAM)	15/04/2027	20 available
 Chalet Alpin du Tour (FFCAM)	15/04/2028	Close
 Chalet Alpin du Tour (FFCAM)	15/05/2027	Fully booked
 Chalet Alpin du Tour (FFCAM)	15/05/2028	Close
-Chalet Alpin du Tour (FFCAM)	15/06/2027	20 available
+Chalet Alpin du Tour (FFCAM)	15/06/2027	18 available
 Chalet Alpin du Tour (FFCAM)	15/06/2028	Close
 Chalet Alpin du Tour (FFCAM)	15/07/2027	20 available
 Chalet Alpin du Tour (FFCAM)	15/07/2028	Close
@@ -11533,7 +11533,7 @@ Gîte Le Moulin	15/04/2027	Close
 Gîte Le Moulin	15/04/2028	Close
 Gîte Le Moulin	15/05/2027	Close
 Gîte Le Moulin	15/05/2028	Close
-Gîte Le Moulin	15/06/2027	23 available
+Gîte Le Moulin	15/06/2027	21 available
 Gîte Le Moulin	15/06/2028	Close
 Gîte Le Moulin	15/07/2027	11 available
 Gîte Le Moulin	15/07/2028	Close
@@ -13845,7 +13845,7 @@ Gîte Michel Fagot	24/06/2027	15 available
 Gîte Michel Fagot	24/06/2028	Close
 Gîte Michel Fagot	24/07/2027	14 available
 Gîte Michel Fagot	24/07/2028	Close
-Gîte Michel Fagot	24/08/2027	19 available
+Gîte Michel Fagot	24/08/2027	15 available
 Gîte Michel Fagot	24/08/2028	Close
 Gîte Michel Fagot	24/09/2027	Fully booked
 Gîte Michel Fagot	24/09/2028	Close
@@ -13933,7 +13933,7 @@ Gîte Michel Fagot	28/04/2027	Fully booked
 Gîte Michel Fagot	28/04/2028	Close
 Gîte Michel Fagot	28/05/2027	Fully booked
 Gîte Michel Fagot	28/05/2028	Close
-Gîte Michel Fagot	28/06/2027	11 available
+Gîte Michel Fagot	28/06/2027	13 available
 Gîte Michel Fagot	28/06/2028	Close
 Gîte Michel Fagot	28/07/2027	17 available
 Gîte Michel Fagot	28/07/2028	Close
@@ -22758,7 +22758,7 @@ Refuge Le Peuty	16/04/2027	Close
 Refuge Le Peuty	16/04/2028	Close
 Refuge Le Peuty	16/05/2027	Close
 Refuge Le Peuty	16/05/2028	Close
-Refuge Le Peuty	16/06/2027	14 available
+Refuge Le Peuty	16/06/2027	12 available
 Refuge Le Peuty	16/06/2028	Close
 Refuge Le Peuty	16/07/2027	Fully booked
 Refuge Le Peuty	16/07/2028	Close
@@ -25336,7 +25336,7 @@ Refuge des Mottets	06/07/2027	Fully booked
 Refuge des Mottets	06/07/2028	Close
 Refuge des Mottets	06/08/2027	Fully booked
 Refuge des Mottets	06/08/2028	Close
-Refuge des Mottets	06/09/2027	5 available
+Refuge des Mottets	06/09/2027	Fully booked
 Refuge des Mottets	06/09/2028	Close
 Refuge des Mottets	06/10/2027	Close
 Refuge des Mottets	06/11/2026	Close
@@ -27259,7 +27259,7 @@ Refuge du Fioux	29/04/2027	Close
 Refuge du Fioux	29/04/2028	Close
 Refuge du Fioux	29/05/2027	11 available
 Refuge du Fioux	29/05/2028	Close
-Refuge du Fioux	29/06/2027	1 available
+Refuge du Fioux	29/06/2027	3 available
 Refuge du Fioux	29/06/2028	Close
 Refuge du Fioux	29/07/2027	24 available
 Refuge du Fioux	29/07/2028	Close
@@ -27685,7 +27685,7 @@ Relais d'Arpette	17/04/2027	Close
 Relais d'Arpette	17/04/2028	Close
 Relais d'Arpette	17/05/2027	Close
 Relais d'Arpette	17/05/2028	Close
-Relais d'Arpette	17/06/2027	92 available
+Relais d'Arpette	17/06/2027	90 available
 Relais d'Arpette	17/06/2028	Close
 Relais d'Arpette	17/07/2027	102 available
 Relais d'Arpette	17/07/2028	Close
