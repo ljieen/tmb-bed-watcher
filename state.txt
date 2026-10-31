@@ -559,7 +559,7 @@ Auberge Gîte Bon Abri	25/04/2027	Fully booked
 Auberge Gîte Bon Abri	25/04/2028	Close
 Auberge Gîte Bon Abri	25/05/2027	57 available
 Auberge Gîte Bon Abri	25/05/2028	Close
-Auberge Gîte Bon Abri	25/06/2027	9 available
+Auberge Gîte Bon Abri	25/06/2027	7 available
 Auberge Gîte Bon Abri	25/06/2028	Close
 Auberge Gîte Bon Abri	25/07/2027	4 available
 Auberge Gîte Bon Abri	25/07/2028	Close
@@ -2564,7 +2564,7 @@ Auberge des Glaciers	21/04/2027	Fully booked
 Auberge des Glaciers	21/04/2028	Close
 Auberge des Glaciers	21/05/2027	Fully booked
 Auberge des Glaciers	21/05/2028	Close
-Auberge des Glaciers	21/06/2027	28 available
+Auberge des Glaciers	21/06/2027	26 available
 Auberge des Glaciers	21/06/2028	Close
 Auberge des Glaciers	21/07/2027	Fully booked
 Auberge des Glaciers	21/07/2028	Close
@@ -2729,7 +2729,7 @@ Auberge des Glaciers	28/06/2027	11 available
 Auberge des Glaciers	28/06/2028	Close
 Auberge des Glaciers	28/07/2027	2 available
 Auberge des Glaciers	28/07/2028	Close
-Auberge des Glaciers	28/08/2027	31 available
+Auberge des Glaciers	28/08/2027	30 available
 Auberge des Glaciers	28/08/2028	Close
 Auberge des Glaciers	28/09/2027	55 available
 Auberge des Glaciers	28/09/2028	Close
@@ -10324,7 +10324,7 @@ Gîte Alpage de La Peule	24/04/2027	Fully booked
 Gîte Alpage de La Peule	24/04/2028	Close
 Gîte Alpage de La Peule	24/05/2027	Fully booked
 Gîte Alpage de La Peule	24/05/2028	Close
-Gîte Alpage de La Peule	24/06/2027	14 available
+Gîte Alpage de La Peule	24/06/2027	12 available
 Gîte Alpage de La Peule	24/06/2028	Close
 Gîte Alpage de La Peule	24/07/2027	11 available
 Gîte Alpage de La Peule	24/07/2028	Close
@@ -13663,7 +13663,7 @@ Gîte Michel Fagot	17/05/2027	Fully booked
 Gîte Michel Fagot	17/05/2028	Close
 Gîte Michel Fagot	17/06/2027	13 available
 Gîte Michel Fagot	17/06/2028	Close
-Gîte Michel Fagot	17/07/2027	16 available
+Gîte Michel Fagot	17/07/2027	17 available
 Gîte Michel Fagot	17/07/2028	Close
 Gîte Michel Fagot	17/08/2027	22 available
 Gîte Michel Fagot	17/08/2028	Close
@@ -17905,7 +17905,7 @@ Hôtel Funivia	19/05/2027	Close
 Hôtel Funivia	19/05/2028	Close
 Hôtel Funivia	19/06/2027	16 available
 Hôtel Funivia	19/06/2028	Close
-Hôtel Funivia	19/07/2027	10 available
+Hôtel Funivia	19/07/2027	12 available
 Hôtel Funivia	19/07/2028	Close
 Hôtel Funivia	19/08/2027	Fully booked
 Hôtel Funivia	19/08/2028	Close
@@ -23655,7 +23655,7 @@ Refuge Les Ecuries de Charamillon	26/04/2027	Close
 Refuge Les Ecuries de Charamillon	26/04/2028	Close
 Refuge Les Ecuries de Charamillon	26/05/2027	Close
 Refuge Les Ecuries de Charamillon	26/05/2028	Close
-Refuge Les Ecuries de Charamillon	26/06/2027	37 available
+Refuge Les Ecuries de Charamillon	26/06/2027	35 available
 Refuge Les Ecuries de Charamillon	26/06/2028	Close
 Refuge Les Ecuries de Charamillon	26/07/2027	49 available
 Refuge Les Ecuries de Charamillon	26/07/2028	Close
@@ -27626,7 +27626,7 @@ Relais d'Arpette	16/06/2027	98 available
 Relais d'Arpette	16/06/2028	Close
 Relais d'Arpette	16/07/2027	54 available
 Relais d'Arpette	16/07/2028	Close
-Relais d'Arpette	16/08/2027	81 available
+Relais d'Arpette	16/08/2027	79 available
 Relais d'Arpette	16/08/2028	Close
 Relais d'Arpette	16/09/2027	101 available
 Relais d'Arpette	16/09/2028	Close
@@ -29181,7 +29181,7 @@ Rifugio G. Bertone	23/04/2027	Close
 Rifugio G. Bertone	23/04/2028	Close
 Rifugio G. Bertone	23/05/2027	Close
 Rifugio G. Bertone	23/05/2028	Close
-Rifugio G. Bertone	23/06/2027	2 available
+Rifugio G. Bertone	23/06/2027	Fully booked
 Rifugio G. Bertone	23/06/2028	Close
 Rifugio G. Bertone	23/07/2027	2 available
 Rifugio G. Bertone	23/07/2028	Close
