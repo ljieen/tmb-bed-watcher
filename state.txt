@@ -3240,7 +3240,7 @@ Auberge du Truc	20/04/2027	Fully booked
 Auberge du Truc	20/04/2028	Close
 Auberge du Truc	20/05/2027	Fully booked
 Auberge du Truc	20/05/2028	Close
-Auberge du Truc	20/06/2027	7 available
+Auberge du Truc	20/06/2027	5 available
 Auberge du Truc	20/06/2028	Close
 Auberge du Truc	20/07/2027	Fully booked
 Auberge du Truc	20/07/2028	Close
@@ -10096,7 +10096,7 @@ Gîte Alpage de La Peule	14/05/2027	Fully booked
 Gîte Alpage de La Peule	14/05/2028	Close
 Gîte Alpage de La Peule	14/06/2027	33 available
 Gîte Alpage de La Peule	14/06/2028	Close
-Gîte Alpage de La Peule	14/07/2027	32 available
+Gîte Alpage de La Peule	14/07/2027	27 available
 Gîte Alpage de La Peule	14/07/2028	Close
 Gîte Alpage de La Peule	14/08/2027	9 available
 Gîte Alpage de La Peule	14/08/2028	Close
