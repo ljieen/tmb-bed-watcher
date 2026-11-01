@@ -1926,7 +1926,7 @@ Auberge Mont-Blanc	20/07/2027	Fully booked
 Auberge Mont-Blanc	20/07/2028	Close
 Auberge Mont-Blanc	20/08/2027	Fully booked
 Auberge Mont-Blanc	20/08/2028	Close
-Auberge Mont-Blanc	20/09/2027	11 available
+Auberge Mont-Blanc	20/09/2027	9 available
 Auberge Mont-Blanc	20/09/2028	Close
 Auberge Mont-Blanc	20/10/2027	Close
 Auberge Mont-Blanc	20/10/2028	Close
@@ -14132,7 +14132,7 @@ Gîte Michel Fagot	12/07/2027	10 available
 Gîte Michel Fagot	12/07/2028	Close
 Gîte Michel Fagot	12/08/2027	16 available
 Gîte Michel Fagot	12/08/2028	Close
-Gîte Michel Fagot	12/09/2027	13 available
+Gîte Michel Fagot	12/09/2027	15 available
 Gîte Michel Fagot	12/09/2028	Close
 Gîte Michel Fagot	12/10/2027	Close
 Gîte Michel Fagot	12/10/2028	Close
@@ -17801,7 +17801,7 @@ Hôtel Edelweiss	13/06/2027	55 available
 Hôtel Edelweiss	13/06/2028	Close
 Hôtel Edelweiss	13/07/2027	1 available
 Hôtel Edelweiss	13/07/2028	Close
-Hôtel Edelweiss	13/08/2027	29 available
+Hôtel Edelweiss	13/08/2027	24 available
 Hôtel Edelweiss	13/08/2028	Close
 Hôtel Edelweiss	13/09/2027	Fully booked
 Hôtel Edelweiss	13/09/2028	Close
@@ -23120,7 +23120,7 @@ Pension en Plein Air	22/07/2027	47 available
 Pension en Plein Air	22/07/2028	Close
 Pension en Plein Air	22/08/2027	29 available
 Pension en Plein Air	22/08/2028	Close
-Pension en Plein Air	22/09/2027	75 available
+Pension en Plein Air	22/09/2027	69 available
 Pension en Plein Air	22/09/2028	Close
 Pension en Plein Air	22/10/2027	Close
 Pension en Plein Air	22/10/2028	Close
@@ -28884,7 +28884,7 @@ Relais d'Arpette	19/07/2027	48 available
 Relais d'Arpette	19/07/2028	Close
 Relais d'Arpette	19/08/2027	65 available
 Relais d'Arpette	19/08/2028	Close
-Relais d'Arpette	19/09/2027	139 available
+Relais d'Arpette	19/09/2027	137 available
 Relais d'Arpette	19/09/2028	Close
 Relais d'Arpette	19/10/2027	Close
 Relais d'Arpette	19/10/2028	Close
