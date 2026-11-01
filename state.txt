@@ -4388,7 +4388,7 @@ Auberge la Grande Ourse	01/07/2027	Fully booked
 Auberge la Grande Ourse	01/07/2028	Close
 Auberge la Grande Ourse	01/08/2027	Fully booked
 Auberge la Grande Ourse	01/08/2028	Close
-Auberge la Grande Ourse	01/09/2027	8 available
+Auberge la Grande Ourse	01/09/2027	6 available
 Auberge la Grande Ourse	01/09/2028	Close
 Auberge la Grande Ourse	01/10/2027	Fully booked
 Auberge la Grande Ourse	01/10/2028	Close
@@ -25379,7 +25379,7 @@ Refuge de Nant Borrant	25/06/2027	Fully booked
 Refuge de Nant Borrant	25/06/2028	Close
 Refuge de Nant Borrant	25/07/2027	Fully booked
 Refuge de Nant Borrant	25/07/2028	Close
-Refuge de Nant Borrant	25/08/2027	2 available
+Refuge de Nant Borrant	25/08/2027	Fully booked
 Refuge de Nant Borrant	25/08/2028	Close
 Refuge de Nant Borrant	25/09/2027	35 available
 Refuge de Nant Borrant	25/09/2028	Close
