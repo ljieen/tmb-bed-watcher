@@ -2809,7 +2809,7 @@ Auberge des Glaciers	27/04/2027	Fully booked
 Auberge des Glaciers	27/04/2028	Close
 Auberge des Glaciers	27/05/2027	Fully booked
 Auberge des Glaciers	27/05/2028	Close
-Auberge des Glaciers	27/06/2027	12 available
+Auberge des Glaciers	27/06/2027	14 available
 Auberge des Glaciers	27/06/2028	Close
 Auberge des Glaciers	27/07/2027	29 available
 Auberge des Glaciers	27/07/2028	Close
@@ -4943,7 +4943,7 @@ Auberge la Grande Ourse	25/04/2027	Fully booked
 Auberge la Grande Ourse	25/04/2028	Close
 Auberge la Grande Ourse	25/05/2027	Fully booked
 Auberge la Grande Ourse	25/05/2028	Close
-Auberge la Grande Ourse	25/06/2027	Fully booked
+Auberge la Grande Ourse	25/06/2027	2 available
 Auberge la Grande Ourse	25/06/2028	Close
 Auberge la Grande Ourse	25/07/2027	Fully booked
 Auberge la Grande Ourse	25/07/2028	Close
@@ -5651,7 +5651,7 @@ Auberge-Refuge de la Nova	24/06/2027	Fully booked
 Auberge-Refuge de la Nova	24/06/2028	Close
 Auberge-Refuge de la Nova	24/07/2027	Fully booked
 Auberge-Refuge de la Nova	24/07/2028	Close
-Auberge-Refuge de la Nova	24/08/2027	3 available
+Auberge-Refuge de la Nova	24/08/2027	5 available
 Auberge-Refuge de la Nova	24/08/2028	Close
 Auberge-Refuge de la Nova	24/09/2027	Close
 Auberge-Refuge de la Nova	24/09/2028	Close
@@ -5675,7 +5675,7 @@ Auberge-Refuge de la Nova	25/06/2027	Fully booked
 Auberge-Refuge de la Nova	25/06/2028	Close
 Auberge-Refuge de la Nova	25/07/2027	Fully booked
 Auberge-Refuge de la Nova	25/07/2028	Close
-Auberge-Refuge de la Nova	25/08/2027	3 available
+Auberge-Refuge de la Nova	25/08/2027	Fully booked
 Auberge-Refuge de la Nova	25/08/2028	Close
 Auberge-Refuge de la Nova	25/09/2027	Close
 Auberge-Refuge de la Nova	25/09/2028	Close
@@ -6699,7 +6699,7 @@ Chalet 'Le Dolent'	07/07/2027	Fully booked
 Chalet 'Le Dolent'	07/07/2028	Close
 Chalet 'Le Dolent'	07/08/2027	Fully booked
 Chalet 'Le Dolent'	07/08/2028	Close
-Chalet 'Le Dolent'	07/09/2027	14 available
+Chalet 'Le Dolent'	07/09/2027	18 available
 Chalet 'Le Dolent'	07/09/2028	Close
 Chalet 'Le Dolent'	07/10/2027	Close
 Chalet 'Le Dolent'	07/10/2028	Close
@@ -8462,7 +8462,7 @@ Chalet La Grange	20/06/2027	8 available
 Chalet La Grange	20/06/2028	Close
 Chalet La Grange	20/07/2027	3 available
 Chalet La Grange	20/07/2028	Close
-Chalet La Grange	20/08/2027	5 available
+Chalet La Grange	20/08/2027	3 available
 Chalet La Grange	20/08/2028	Close
 Chalet La Grange	20/09/2027	14 available
 Chalet La Grange	20/09/2028	Close
@@ -9022,7 +9022,7 @@ Chalet Les Méandres (ex Tupilak)	13/06/2027	36 available
 Chalet Les Méandres (ex Tupilak)	13/06/2028	Close
 Chalet Les Méandres (ex Tupilak)	13/07/2027	38 available
 Chalet Les Méandres (ex Tupilak)	13/07/2028	Close
-Chalet Les Méandres (ex Tupilak)	13/08/2027	39 available
+Chalet Les Méandres (ex Tupilak)	13/08/2027	37 available
 Chalet Les Méandres (ex Tupilak)	13/08/2028	Close
 Chalet Les Méandres (ex Tupilak)	13/09/2027	36 available
 Chalet Les Méandres (ex Tupilak)	13/09/2028	Close
@@ -15736,7 +15736,7 @@ Gîte le Pontet	20/06/2027	2 available
 Gîte le Pontet	20/06/2028	Close
 Gîte le Pontet	20/07/2027	Fully booked
 Gîte le Pontet	20/07/2028	Close
-Gîte le Pontet	20/08/2027	39 available
+Gîte le Pontet	20/08/2027	33 available
 Gîte le Pontet	20/08/2028	Close
 Gîte le Pontet	20/09/2027	73 available
 Gîte le Pontet	20/09/2028	Close
@@ -17895,7 +17895,7 @@ Hôtel Edelweiss	19/06/2027	23 available
 Hôtel Edelweiss	19/06/2028	Close
 Hôtel Edelweiss	19/07/2027	Fully booked
 Hôtel Edelweiss	19/07/2028	Close
-Hôtel Edelweiss	19/08/2027	16 available
+Hôtel Edelweiss	19/08/2027	14 available
 Hôtel Edelweiss	19/08/2028	Close
 Hôtel Edelweiss	19/09/2027	Close
 Hôtel Edelweiss	19/09/2028	Close
@@ -20124,7 +20124,7 @@ Hôtel du Col de la Forclaz	21/06/2027	12 available
 Hôtel du Col de la Forclaz	21/06/2028	Close
 Hôtel du Col de la Forclaz	21/07/2027	Fully booked
 Hôtel du Col de la Forclaz	21/07/2028	Close
-Hôtel du Col de la Forclaz	21/08/2027	13 available
+Hôtel du Col de la Forclaz	21/08/2027	11 available
 Hôtel du Col de la Forclaz	21/08/2028	Close
 Hôtel du Col de la Forclaz	21/09/2027	28 available
 Hôtel du Col de la Forclaz	21/09/2028	Close
@@ -20678,7 +20678,7 @@ La Ferme à Piron	14/06/2027	9 available
 La Ferme à Piron	14/06/2028	Close
 La Ferme à Piron	14/07/2027	11 available
 La Ferme à Piron	14/07/2028	Close
-La Ferme à Piron	14/08/2027	8 available
+La Ferme à Piron	14/08/2027	6 available
 La Ferme à Piron	14/08/2028	Close
 La Ferme à Piron	14/09/2027	6 available
 La Ferme à Piron	14/09/2028	Close
@@ -23146,7 +23146,7 @@ Pension en Plein Air	26/04/2027	Fully booked
 Pension en Plein Air	26/04/2028	Close
 Pension en Plein Air	26/05/2027	Fully booked
 Pension en Plein Air	26/05/2028	Close
-Pension en Plein Air	26/06/2027	46 available
+Pension en Plein Air	26/06/2027	48 available
 Pension en Plein Air	26/06/2028	Close
 Pension en Plein Air	26/07/2027	26 available
 Pension en Plein Air	26/07/2028	Close
@@ -25796,7 +25796,7 @@ Refuge de la Balme	15/06/2027	5 available
 Refuge de la Balme	15/06/2028	Close
 Refuge de la Balme	15/07/2027	2 available
 Refuge de la Balme	15/07/2028	Close
-Refuge de la Balme	15/08/2027	8 available
+Refuge de la Balme	15/08/2027	6 available
 Refuge de la Balme	15/08/2028	Close
 Refuge de la Balme	15/09/2027	Fully booked
 Refuge de la Balme	15/09/2028	Close
@@ -29741,7 +29741,7 @@ Rifugio Chapy Mont Blanc	28/04/2027	Close
 Rifugio Chapy Mont Blanc	28/04/2028	Close
 Rifugio Chapy Mont Blanc	28/05/2027	Close
 Rifugio Chapy Mont Blanc	28/05/2028	Close
-Rifugio Chapy Mont Blanc	28/06/2027	9 available
+Rifugio Chapy Mont Blanc	28/06/2027	11 available
 Rifugio Chapy Mont Blanc	28/06/2028	Close
 Rifugio Chapy Mont Blanc	28/07/2027	21 available
 Rifugio Chapy Mont Blanc	28/07/2028	Close
@@ -31218,7 +31218,7 @@ Rifugio Maison Vieille	29/04/2027	Fully booked
 Rifugio Maison Vieille	29/04/2028	Close
 Rifugio Maison Vieille	29/05/2027	Fully booked
 Rifugio Maison Vieille	29/05/2028	Close
-Rifugio Maison Vieille	29/06/2027	15 available
+Rifugio Maison Vieille	29/06/2027	17 available
 Rifugio Maison Vieille	29/06/2028	Close
 Rifugio Maison Vieille	29/07/2027	1 available
 Rifugio Maison Vieille	29/07/2028	Close
