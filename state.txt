@@ -9897,7 +9897,7 @@ Gite le Randonneur du Mont Blanc	21/05/2027	Fully booked
 Gite le Randonneur du Mont Blanc	21/05/2028	Close
 Gite le Randonneur du Mont Blanc	21/06/2027	14 available
 Gite le Randonneur du Mont Blanc	21/06/2028	Close
-Gite le Randonneur du Mont Blanc	21/07/2027	6 available
+Gite le Randonneur du Mont Blanc	21/07/2027	10 available
 Gite le Randonneur du Mont Blanc	21/07/2028	Close
 Gite le Randonneur du Mont Blanc	21/08/2027	31 available
 Gite le Randonneur du Mont Blanc	21/08/2028	Close
@@ -12721,7 +12721,7 @@ Gîte Les Mélèzes	18/04/2027	Close
 Gîte Les Mélèzes	18/04/2028	Close
 Gîte Les Mélèzes	18/05/2027	Close
 Gîte Les Mélèzes	18/05/2028	Close
-Gîte Les Mélèzes	18/06/2027	2 available
+Gîte Les Mélèzes	18/06/2027	1 available
 Gîte Les Mélèzes	18/06/2028	Close
 Gîte Les Mélèzes	18/07/2027	Fully booked
 Gîte Les Mélèzes	18/07/2028	Close
@@ -14032,7 +14032,7 @@ Gîte Michel Fagot	12/07/2027	9 available
 Gîte Michel Fagot	12/07/2028	Close
 Gîte Michel Fagot	12/08/2027	16 available
 Gîte Michel Fagot	12/08/2028	Close
-Gîte Michel Fagot	12/09/2027	15 available
+Gîte Michel Fagot	12/09/2027	13 available
 Gîte Michel Fagot	12/09/2028	Close
 Gîte Michel Fagot	12/10/2027	Close
 Gîte Michel Fagot	12/10/2028	Close
@@ -14056,7 +14056,7 @@ Gîte Michel Fagot	13/07/2027	19 available
 Gîte Michel Fagot	13/07/2028	Close
 Gîte Michel Fagot	13/08/2027	20 available
 Gîte Michel Fagot	13/08/2028	Close
-Gîte Michel Fagot	13/09/2027	20 available
+Gîte Michel Fagot	13/09/2027	22 available
 Gîte Michel Fagot	13/09/2028	Close
 Gîte Michel Fagot	13/10/2027	Close
 Gîte Michel Fagot	13/10/2028	Close
@@ -15504,7 +15504,7 @@ Gîte le Pontet	13/07/2027	2 available
 Gîte le Pontet	13/07/2028	Close
 Gîte le Pontet	13/08/2027	24 available
 Gîte le Pontet	13/08/2028	Close
-Gîte le Pontet	13/09/2027	30 available
+Gîte le Pontet	13/09/2027	28 available
 Gîte le Pontet	13/09/2028	Close
 Gîte le Pontet	13/10/2027	Fully booked
 Gîte le Pontet	13/10/2028	Close
@@ -27954,7 +27954,7 @@ Refuge du Fioux	19/04/2027	Close
 Refuge du Fioux	19/04/2028	Close
 Refuge du Fioux	19/05/2027	Close
 Refuge du Fioux	19/05/2028	Close
-Refuge du Fioux	19/06/2027	4 available
+Refuge du Fioux	19/06/2027	5 available
 Refuge du Fioux	19/06/2028	Close
 Refuge du Fioux	19/07/2027	18 available
 Refuge du Fioux	19/07/2028	Close
