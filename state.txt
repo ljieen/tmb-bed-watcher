@@ -11590,7 +11590,7 @@ Gîte Le Moulin	02/06/2027	30 available
 Gîte Le Moulin	02/06/2028	Close
 Gîte Le Moulin	02/07/2027	5 available
 Gîte Le Moulin	02/07/2028	Close
-Gîte Le Moulin	02/08/2027	12 available
+Gîte Le Moulin	02/08/2027	8 available
 Gîte Le Moulin	02/08/2028	Close
 Gîte Le Moulin	02/09/2027	14 available
 Gîte Le Moulin	02/09/2028	Close
@@ -14036,7 +14036,7 @@ Gîte Michel Fagot	14/05/2027	Fully booked
 Gîte Michel Fagot	14/05/2028	Close
 Gîte Michel Fagot	14/06/2027	17 available
 Gîte Michel Fagot	14/06/2028	Close
-Gîte Michel Fagot	14/07/2027	21 available
+Gîte Michel Fagot	14/07/2027	22 available
 Gîte Michel Fagot	14/07/2028	Close
 Gîte Michel Fagot	14/08/2027	14 available
 Gîte Michel Fagot	14/08/2028	Close
@@ -14108,7 +14108,7 @@ Gîte Michel Fagot	17/05/2027	Fully booked
 Gîte Michel Fagot	17/05/2028	Close
 Gîte Michel Fagot	17/06/2027	13 available
 Gîte Michel Fagot	17/06/2028	Close
-Gîte Michel Fagot	17/07/2027	21 available
+Gîte Michel Fagot	17/07/2027	20 available
 Gîte Michel Fagot	17/07/2028	Close
 Gîte Michel Fagot	17/08/2027	22 available
 Gîte Michel Fagot	17/08/2028	Close
@@ -17071,7 +17071,7 @@ Hôtel Chalet Val Ferret	20/06/2027	Fully booked
 Hôtel Chalet Val Ferret	20/06/2028	Close
 Hôtel Chalet Val Ferret	20/07/2027	Fully booked
 Hôtel Chalet Val Ferret	20/07/2028	Close
-Hôtel Chalet Val Ferret	20/08/2027	6 available
+Hôtel Chalet Val Ferret	20/08/2027	3 available
 Hôtel Chalet Val Ferret	20/08/2028	Close
 Hôtel Chalet Val Ferret	20/09/2027	Close
 Hôtel Chalet Val Ferret	20/09/2028	Close
@@ -17700,7 +17700,7 @@ Hôtel Edelweiss	16/07/2027	Fully booked
 Hôtel Edelweiss	16/07/2028	Close
 Hôtel Edelweiss	16/08/2027	3 available
 Hôtel Edelweiss	16/08/2028	Close
-Hôtel Edelweiss	16/09/2027	24 available
+Hôtel Edelweiss	16/09/2027	26 available
 Hôtel Edelweiss	16/09/2028	Close
 Hôtel Edelweiss	16/10/2027	Close
 Hôtel Edelweiss	16/10/2028	Close
@@ -20555,7 +20555,7 @@ La Ferme à Piron	15/05/2027	Close
 La Ferme à Piron	15/05/2028	Close
 La Ferme à Piron	15/06/2027	4 available
 La Ferme à Piron	15/06/2028	Close
-La Ferme à Piron	15/07/2027	10 available
+La Ferme à Piron	15/07/2027	11 available
 La Ferme à Piron	15/07/2028	Close
 La Ferme à Piron	15/08/2027	Fully booked
 La Ferme à Piron	15/08/2028	Close
@@ -22400,7 +22400,7 @@ Pension en Plein Air	01/07/2027	34 available
 Pension en Plein Air	01/07/2028	Close
 Pension en Plein Air	01/08/2027	9 available
 Pension en Plein Air	01/08/2028	Close
-Pension en Plein Air	01/09/2027	44 available
+Pension en Plein Air	01/09/2027	31 available
 Pension en Plein Air	01/09/2028	Close
 Pension en Plein Air	01/10/2027	Fully booked
 Pension en Plein Air	01/10/2028	Close
@@ -24890,7 +24890,7 @@ Refuge de Nant Borrant	15/04/2027	Close
 Refuge de Nant Borrant	15/04/2028	Close
 Refuge de Nant Borrant	15/05/2027	Close
 Refuge de Nant Borrant	15/05/2028	Close
-Refuge de Nant Borrant	15/06/2027	Fully booked
+Refuge de Nant Borrant	15/06/2027	1 available
 Refuge de Nant Borrant	15/06/2028	Close
 Refuge de Nant Borrant	15/07/2027	Fully booked
 Refuge de Nant Borrant	15/07/2028	Close
@@ -26263,7 +26263,7 @@ Refuge des Mottets	12/04/2027	Close
 Refuge des Mottets	12/04/2028	Close
 Refuge des Mottets	12/05/2027	Close
 Refuge des Mottets	12/05/2028	Close
-Refuge des Mottets	12/06/2027	8 available
+Refuge des Mottets	12/06/2027	9 available
 Refuge des Mottets	12/06/2028	Close
 Refuge des Mottets	12/07/2027	Fully booked
 Refuge des Mottets	12/07/2028	Close
@@ -29348,7 +29348,7 @@ Rifugio Chapy Mont Blanc	20/06/2027	24 available
 Rifugio Chapy Mont Blanc	20/06/2028	Close
 Rifugio Chapy Mont Blanc	20/07/2027	23 available
 Rifugio Chapy Mont Blanc	20/07/2028	Close
-Rifugio Chapy Mont Blanc	20/08/2027	12 available
+Rifugio Chapy Mont Blanc	20/08/2027	14 available
 Rifugio Chapy Mont Blanc	20/08/2028	Close
 Rifugio Chapy Mont Blanc	20/09/2027	Close
 Rifugio Chapy Mont Blanc	20/09/2028	Close
