@@ -551,7 +551,7 @@ Auberge Gîte Bon Abri	24/04/2027	Fully booked
 Auberge Gîte Bon Abri	24/04/2028	Close
 Auberge Gîte Bon Abri	24/05/2027	35 available
 Auberge Gîte Bon Abri	24/05/2028	Close
-Auberge Gîte Bon Abri	24/06/2027	7 available
+Auberge Gîte Bon Abri	24/06/2027	5 available
 Auberge Gîte Bon Abri	24/06/2028	Close
 Auberge Gîte Bon Abri	24/07/2027	50 available
 Auberge Gîte Bon Abri	24/07/2028	Close
@@ -2741,7 +2741,7 @@ Auberge des Glaciers	25/04/2027	Fully booked
 Auberge des Glaciers	25/04/2028	Close
 Auberge des Glaciers	25/05/2027	Fully booked
 Auberge des Glaciers	25/05/2028	Close
-Auberge des Glaciers	25/06/2027	22 available
+Auberge des Glaciers	25/06/2027	20 available
 Auberge des Glaciers	25/06/2028	Close
 Auberge des Glaciers	25/07/2027	18 available
 Auberge des Glaciers	25/07/2028	Close
@@ -4860,7 +4860,7 @@ Auberge la Grande Ourse	23/04/2027	Fully booked
 Auberge la Grande Ourse	23/04/2028	Close
 Auberge la Grande Ourse	23/05/2027	Fully booked
 Auberge la Grande Ourse	23/05/2028	Close
-Auberge la Grande Ourse	23/06/2027	15 available
+Auberge la Grande Ourse	23/06/2027	13 available
 Auberge la Grande Ourse	23/06/2028	Close
 Auberge la Grande Ourse	23/07/2027	Fully booked
 Auberge la Grande Ourse	23/07/2028	Close
@@ -15794,7 +15794,7 @@ Gîte le Pontet	27/06/2027	Fully booked
 Gîte le Pontet	27/06/2028	Close
 Gîte le Pontet	27/07/2027	41 available
 Gîte le Pontet	27/07/2028	Close
-Gîte le Pontet	27/08/2027	34 available
+Gîte le Pontet	27/08/2027	33 available
 Gîte le Pontet	27/08/2028	Close
 Gîte le Pontet	27/09/2027	76 available
 Gîte le Pontet	27/09/2028	Close
@@ -15859,7 +15859,7 @@ Gîte le Pontet	30/04/2027	Fully booked
 Gîte le Pontet	30/04/2028	Close
 Gîte le Pontet	30/05/2027	Fully booked
 Gîte le Pontet	30/05/2028	Close
-Gîte le Pontet	30/06/2027	18 available
+Gîte le Pontet	30/06/2027	16 available
 Gîte le Pontet	30/06/2028	Close
 Gîte le Pontet	30/07/2027	34 available
 Gîte le Pontet	30/07/2028	Close
@@ -22400,7 +22400,7 @@ Pension en Plein Air	01/07/2027	34 available
 Pension en Plein Air	01/07/2028	Close
 Pension en Plein Air	01/08/2027	9 available
 Pension en Plein Air	01/08/2028	Close
-Pension en Plein Air	01/09/2027	31 available
+Pension en Plein Air	01/09/2027	44 available
 Pension en Plein Air	01/09/2028	Close
 Pension en Plein Air	01/10/2027	Fully booked
 Pension en Plein Air	01/10/2028	Close
@@ -25518,7 +25518,7 @@ Refuge de la Balme	11/05/2027	Close
 Refuge de la Balme	11/05/2028	Close
 Refuge de la Balme	11/06/2027	Close
 Refuge de la Balme	11/06/2028	Close
-Refuge de la Balme	11/07/2027	1 available
+Refuge de la Balme	11/07/2027	Fully booked
 Refuge de la Balme	11/07/2028	Close
 Refuge de la Balme	11/08/2027	22 available
 Refuge de la Balme	11/08/2028	Close
@@ -27396,7 +27396,7 @@ Refuge des Prés	29/06/2027	Fully booked
 Refuge des Prés	29/06/2028	Close
 Refuge des Prés	29/07/2027	4 available
 Refuge des Prés	29/07/2028	Close
-Refuge des Prés	29/08/2027	5 available
+Refuge des Prés	29/08/2027	3 available
 Refuge des Prés	29/08/2028	Close
 Refuge des Prés	29/09/2027	15 available
 Refuge des Prés	29/09/2028	Close
