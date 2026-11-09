@@ -781,7 +781,7 @@ Auberge Maya-Joie	03/07/2027	24 available
 Auberge Maya-Joie	03/07/2028	Close
 Auberge Maya-Joie	03/08/2027	Fully booked
 Auberge Maya-Joie	03/08/2028	Close
-Auberge Maya-Joie	03/09/2027	37 available
+Auberge Maya-Joie	03/09/2027	35 available
 Auberge Maya-Joie	03/09/2028	Close
 Auberge Maya-Joie	03/10/2027	Fully booked
 Auberge Maya-Joie	03/10/2028	Close
@@ -13761,7 +13761,7 @@ Gîte Michel Fagot	03/06/2027	Fully booked
 Gîte Michel Fagot	03/06/2028	Close
 Gîte Michel Fagot	03/07/2027	14 available
 Gîte Michel Fagot	03/07/2028	Close
-Gîte Michel Fagot	03/08/2027	12 available
+Gîte Michel Fagot	03/08/2027	8 available
 Gîte Michel Fagot	03/08/2028	Close
 Gîte Michel Fagot	03/09/2027	16 available
 Gîte Michel Fagot	03/09/2028	Close
@@ -20276,7 +20276,7 @@ La Ferme à Piron	04/06/2027	Close
 La Ferme à Piron	04/06/2028	Close
 La Ferme à Piron	04/07/2027	Fully booked
 La Ferme à Piron	04/07/2028	Close
-La Ferme à Piron	04/08/2027	3 available
+La Ferme à Piron	04/08/2027	2 available
 La Ferme à Piron	04/08/2028	Close
 La Ferme à Piron	04/09/2027	1 available
 La Ferme à Piron	04/09/2028	Close
@@ -25346,7 +25346,7 @@ Refuge de la Balme	05/06/2027	Close
 Refuge de la Balme	05/06/2028	Close
 Refuge de la Balme	05/07/2027	Fully booked
 Refuge de la Balme	05/07/2028	Close
-Refuge de la Balme	05/08/2027	8 available
+Refuge de la Balme	05/08/2027	7 available
 Refuge de la Balme	05/08/2028	Close
 Refuge de la Balme	05/09/2027	Fully booked
 Refuge de la Balme	05/09/2028	Close
@@ -25394,7 +25394,7 @@ Refuge de la Balme	07/07/2027	Fully booked
 Refuge de la Balme	07/07/2028	Close
 Refuge de la Balme	07/08/2027	1 available
 Refuge de la Balme	07/08/2028	Close
-Refuge de la Balme	07/09/2027	2 available
+Refuge de la Balme	07/09/2027	Fully booked
 Refuge de la Balme	07/09/2028	Close
 Refuge de la Balme	07/10/2027	Fully booked
 Refuge de la Balme	07/10/2028	Close
@@ -28211,7 +28211,7 @@ Relais d'Arpette	04/07/2027	46 available
 Relais d'Arpette	04/07/2028	Close
 Relais d'Arpette	04/08/2027	92 available
 Relais d'Arpette	04/08/2028	Close
-Relais d'Arpette	04/09/2027	86 available
+Relais d'Arpette	04/09/2027	82 available
 Relais d'Arpette	04/09/2028	Close
 Relais d'Arpette	04/10/2027	Close
 Relais d'Arpette	04/10/2028	Close
@@ -30026,7 +30026,7 @@ Rifugio G. Bertone	20/05/2027	Close
 Rifugio G. Bertone	20/05/2028	Close
 Rifugio G. Bertone	20/06/2027	5 available
 Rifugio G. Bertone	20/06/2028	Close
-Rifugio G. Bertone	20/07/2027	1 available
+Rifugio G. Bertone	20/07/2027	Fully booked
 Rifugio G. Bertone	20/07/2028	Close
 Rifugio G. Bertone	20/08/2027	Fully booked
 Rifugio G. Bertone	20/08/2028	Close
