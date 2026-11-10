@@ -407,7 +407,7 @@ Auberge Gîte Bon Abri	18/05/2027	Fully booked
 Auberge Gîte Bon Abri	18/05/2028	Close
 Auberge Gîte Bon Abri	18/06/2027	12 available
 Auberge Gîte Bon Abri	18/06/2028	Close
-Auberge Gîte Bon Abri	18/07/2027	5 available
+Auberge Gîte Bon Abri	18/07/2027	4 available
 Auberge Gîte Bon Abri	18/07/2028	Close
 Auberge Gîte Bon Abri	18/08/2027	37 available
 Auberge Gîte Bon Abri	18/08/2028	Close
@@ -431,7 +431,7 @@ Auberge Gîte Bon Abri	19/05/2027	Fully booked
 Auberge Gîte Bon Abri	19/05/2028	Close
 Auberge Gîte Bon Abri	19/06/2027	50 available
 Auberge Gîte Bon Abri	19/06/2028	Close
-Auberge Gîte Bon Abri	19/07/2027	11 available
+Auberge Gîte Bon Abri	19/07/2027	9 available
 Auberge Gîte Bon Abri	19/07/2028	Close
 Auberge Gîte Bon Abri	19/08/2027	6 available
 Auberge Gîte Bon Abri	19/08/2028	Close
@@ -459,7 +459,7 @@ Auberge Gîte Bon Abri	20/07/2027	9 available
 Auberge Gîte Bon Abri	20/07/2028	Close
 Auberge Gîte Bon Abri	20/08/2027	31 available
 Auberge Gîte Bon Abri	20/08/2028	Close
-Auberge Gîte Bon Abri	20/09/2027	35 available
+Auberge Gîte Bon Abri	20/09/2027	32 available
 Auberge Gîte Bon Abri	20/09/2028	Close
 Auberge Gîte Bon Abri	20/10/2027	Close
 Auberge Gîte Bon Abri	20/10/2028	Close
@@ -577,7 +577,7 @@ Auberge Gîte Bon Abri	25/06/2027	10 available
 Auberge Gîte Bon Abri	25/06/2028	Close
 Auberge Gîte Bon Abri	25/07/2027	9 available
 Auberge Gîte Bon Abri	25/07/2028	Close
-Auberge Gîte Bon Abri	25/08/2027	41 available
+Auberge Gîte Bon Abri	25/08/2027	39 available
 Auberge Gîte Bon Abri	25/08/2028	Close
 Auberge Gîte Bon Abri	25/09/2027	Fully booked
 Auberge Gîte Bon Abri	25/09/2028	Close
@@ -2475,7 +2475,7 @@ Auberge des Glaciers	14/07/2027	8 available
 Auberge des Glaciers	14/07/2028	Close
 Auberge des Glaciers	14/08/2027	12 available
 Auberge des Glaciers	14/08/2028	Close
-Auberge des Glaciers	14/09/2027	22 available
+Auberge des Glaciers	14/09/2027	20 available
 Auberge des Glaciers	14/09/2028	Close
 Auberge des Glaciers	14/10/2027	51 available
 Auberge des Glaciers	14/10/2028	Close
@@ -2497,7 +2497,7 @@ Auberge des Glaciers	15/06/2027	36 available
 Auberge des Glaciers	15/06/2028	Close
 Auberge des Glaciers	15/07/2027	Fully booked
 Auberge des Glaciers	15/07/2028	Close
-Auberge des Glaciers	15/08/2027	14 available
+Auberge des Glaciers	15/08/2027	12 available
 Auberge des Glaciers	15/08/2028	Close
 Auberge des Glaciers	15/09/2027	2 available
 Auberge des Glaciers	15/09/2028	Close
@@ -2543,7 +2543,7 @@ Auberge des Glaciers	17/05/2027	Fully booked
 Auberge des Glaciers	17/05/2028	Close
 Auberge des Glaciers	17/06/2027	6 available
 Auberge des Glaciers	17/06/2028	Close
-Auberge des Glaciers	17/07/2027	9 available
+Auberge des Glaciers	17/07/2027	8 available
 Auberge des Glaciers	17/07/2028	Close
 Auberge des Glaciers	17/08/2027	26 available
 Auberge des Glaciers	17/08/2028	Close
@@ -3309,7 +3309,7 @@ Auberge du Truc	19/04/2027	Fully booked
 Auberge du Truc	19/04/2028	Close
 Auberge du Truc	19/05/2027	Fully booked
 Auberge du Truc	19/05/2028	Close
-Auberge du Truc	19/06/2027	5 available
+Auberge du Truc	19/06/2027	3 available
 Auberge du Truc	19/06/2028	Close
 Auberge du Truc	19/07/2027	Close
 Auberge du Truc	19/07/2028	Close
@@ -3477,7 +3477,7 @@ Auberge du Truc	26/04/2027	Fully booked
 Auberge du Truc	26/04/2028	Close
 Auberge du Truc	26/05/2027	Fully booked
 Auberge du Truc	26/05/2028	Close
-Auberge du Truc	26/06/2027	10 available
+Auberge du Truc	26/06/2027	5 available
 Auberge du Truc	26/06/2028	Close
 Auberge du Truc	26/07/2027	Close
 Auberge du Truc	26/07/2028	Close
@@ -4684,7 +4684,7 @@ Auberge la Grande Ourse	16/07/2027	Fully booked
 Auberge la Grande Ourse	16/07/2028	Close
 Auberge la Grande Ourse	16/08/2027	Fully booked
 Auberge la Grande Ourse	16/08/2028	Close
-Auberge la Grande Ourse	16/09/2027	12 available
+Auberge la Grande Ourse	16/09/2027	Fully booked
 Auberge la Grande Ourse	16/09/2028	Close
 Auberge la Grande Ourse	16/10/2027	Fully booked
 Auberge la Grande Ourse	16/10/2028	Close
@@ -9865,7 +9865,7 @@ Gite le Randonneur du Mont Blanc	22/05/2027	Fully booked
 Gite le Randonneur du Mont Blanc	22/05/2028	Close
 Gite le Randonneur du Mont Blanc	22/06/2027	4 available
 Gite le Randonneur du Mont Blanc	22/06/2028	Close
-Gite le Randonneur du Mont Blanc	22/07/2027	17 available
+Gite le Randonneur du Mont Blanc	22/07/2027	13 available
 Gite le Randonneur du Mont Blanc	22/07/2028	Close
 Gite le Randonneur du Mont Blanc	22/08/2027	27 available
 Gite le Randonneur du Mont Blanc	22/08/2028	Close
@@ -11238,7 +11238,7 @@ Gîte La Léchère	19/07/2027	Fully booked
 Gîte La Léchère	19/07/2028	Close
 Gîte La Léchère	19/08/2027	20 available
 Gîte La Léchère	19/08/2028	Close
-Gîte La Léchère	19/09/2027	8 available
+Gîte La Léchère	19/09/2027	5 available
 Gîte La Léchère	19/09/2028	Close
 Gîte La Léchère	19/10/2027	Fully booked
 Gîte La Léchère	19/10/2028	Close
@@ -11835,7 +11835,7 @@ Gîte Le Moulin	14/05/2027	Close
 Gîte Le Moulin	14/05/2028	Close
 Gîte Le Moulin	14/06/2027	28 available
 Gîte Le Moulin	14/06/2028	Close
-Gîte Le Moulin	14/07/2027	5 available
+Gîte Le Moulin	14/07/2027	3 available
 Gîte Le Moulin	14/07/2028	Close
 Gîte Le Moulin	14/08/2027	12 available
 Gîte Le Moulin	14/08/2028	Close
@@ -11859,7 +11859,7 @@ Gîte Le Moulin	15/05/2027	Close
 Gîte Le Moulin	15/05/2028	Close
 Gîte Le Moulin	15/06/2027	28 available
 Gîte Le Moulin	15/06/2028	Close
-Gîte Le Moulin	15/07/2027	16 available
+Gîte Le Moulin	15/07/2027	18 available
 Gîte Le Moulin	15/07/2028	Close
 Gîte Le Moulin	15/08/2027	6 available
 Gîte Le Moulin	15/08/2028	Close
@@ -11955,7 +11955,7 @@ Gîte Le Moulin	19/05/2027	Close
 Gîte Le Moulin	19/05/2028	Close
 Gîte Le Moulin	19/06/2027	6 available
 Gîte Le Moulin	19/06/2028	Close
-Gîte Le Moulin	19/07/2027	11 available
+Gîte Le Moulin	19/07/2027	10 available
 Gîte Le Moulin	19/07/2028	Close
 Gîte Le Moulin	19/08/2027	14 available
 Gîte Le Moulin	19/08/2028	Close
@@ -13836,7 +13836,7 @@ Gîte Michel Fagot	07/07/2027	17 available
 Gîte Michel Fagot	07/07/2028	Close
 Gîte Michel Fagot	07/08/2027	16 available
 Gîte Michel Fagot	07/08/2028	Close
-Gîte Michel Fagot	07/09/2027	17 available
+Gîte Michel Fagot	07/09/2027	14 available
 Gîte Michel Fagot	07/09/2028	Close
 Gîte Michel Fagot	07/10/2027	Close
 Gîte Michel Fagot	07/10/2028	Close
@@ -13996,7 +13996,7 @@ Gîte Michel Fagot	14/05/2027	Fully booked
 Gîte Michel Fagot	14/05/2028	Close
 Gîte Michel Fagot	14/06/2027	17 available
 Gîte Michel Fagot	14/06/2028	Close
-Gîte Michel Fagot	14/07/2027	20 available
+Gîte Michel Fagot	14/07/2027	22 available
 Gîte Michel Fagot	14/07/2028	Close
 Gîte Michel Fagot	14/08/2027	14 available
 Gîte Michel Fagot	14/08/2028	Close
@@ -14860,7 +14860,7 @@ Gîte Saint Louis	20/05/2027	Fully booked
 Gîte Saint Louis	20/05/2028	Close
 Gîte Saint Louis	20/06/2027	15 available
 Gîte Saint Louis	20/06/2028	Close
-Gîte Saint Louis	20/07/2027	10 available
+Gîte Saint Louis	20/07/2027	8 available
 Gîte Saint Louis	20/07/2028	Close
 Gîte Saint Louis	20/08/2027	Fully booked
 Gîte Saint Louis	20/08/2028	Close
@@ -15464,7 +15464,7 @@ Gîte le Pontet	15/07/2027	19 available
 Gîte le Pontet	15/07/2028	Close
 Gîte le Pontet	15/08/2027	Fully booked
 Gîte le Pontet	15/08/2028	Close
-Gîte le Pontet	15/09/2027	74 available
+Gîte le Pontet	15/09/2027	71 available
 Gîte le Pontet	15/09/2028	Close
 Gîte le Pontet	15/10/2027	Fully booked
 Gîte le Pontet	15/10/2028	Close
@@ -17644,7 +17644,7 @@ Hôtel Edelweiss	16/04/2027	Close
 Hôtel Edelweiss	16/04/2028	Close
 Hôtel Edelweiss	16/05/2027	Close
 Hôtel Edelweiss	16/05/2028	Close
-Hôtel Edelweiss	16/06/2027	37 available
+Hôtel Edelweiss	16/06/2027	35 available
 Hôtel Edelweiss	16/06/2028	Close
 Hôtel Edelweiss	16/07/2027	Fully booked
 Hôtel Edelweiss	16/07/2028	Close
@@ -17768,7 +17768,7 @@ Hôtel Edelweiss	21/06/2027	47 available
 Hôtel Edelweiss	21/06/2028	Close
 Hôtel Edelweiss	21/07/2027	1 available
 Hôtel Edelweiss	21/07/2028	Close
-Hôtel Edelweiss	21/08/2027	25 available
+Hôtel Edelweiss	21/08/2027	23 available
 Hôtel Edelweiss	21/08/2028	Close
 Hôtel Edelweiss	21/09/2027	Close
 Hôtel Edelweiss	21/09/2028	Close
@@ -18298,7 +18298,7 @@ Hôtel Funivia	13/07/2027	8 available
 Hôtel Funivia	13/07/2028	Close
 Hôtel Funivia	13/08/2027	Fully booked
 Hôtel Funivia	13/08/2028	Close
-Hôtel Funivia	13/09/2027	2 available
+Hôtel Funivia	13/09/2027	Fully booked
 Hôtel Funivia	13/09/2028	Close
 Hôtel Funivia	13/10/2027	Fully booked
 Hôtel Funivia	13/10/2028	Close
@@ -19832,7 +19832,7 @@ Hôtel du Col de la Forclaz	17/06/2027	20 available
 Hôtel du Col de la Forclaz	17/06/2028	Close
 Hôtel du Col de la Forclaz	17/07/2027	Fully booked
 Hôtel du Col de la Forclaz	17/07/2028	Close
-Hôtel du Col de la Forclaz	17/08/2027	2 available
+Hôtel du Col de la Forclaz	17/08/2027	Fully booked
 Hôtel du Col de la Forclaz	17/08/2028	Close
 Hôtel du Col de la Forclaz	17/09/2027	Fully booked
 Hôtel du Col de la Forclaz	17/09/2028	Close
@@ -20315,7 +20315,7 @@ La Ferme à Piron	07/05/2027	Close
 La Ferme à Piron	07/05/2028	Close
 La Ferme à Piron	07/06/2027	Close
 La Ferme à Piron	07/06/2028	Close
-La Ferme à Piron	07/07/2027	4 available
+La Ferme à Piron	07/07/2027	2 available
 La Ferme à Piron	07/07/2028	Close
 La Ferme à Piron	07/08/2027	4 available
 La Ferme à Piron	07/08/2028	Close
@@ -20338,7 +20338,7 @@ La Ferme à Piron	08/05/2027	Close
 La Ferme à Piron	08/05/2028	Close
 La Ferme à Piron	08/06/2027	Close
 La Ferme à Piron	08/06/2028	Close
-La Ferme à Piron	08/07/2027	Fully booked
+La Ferme à Piron	08/07/2027	2 available
 La Ferme à Piron	08/07/2028	Close
 La Ferme à Piron	08/08/2027	Fully booked
 La Ferme à Piron	08/08/2028	Close
@@ -22686,7 +22686,7 @@ Pension en Plein Air	16/06/2027	65 available
 Pension en Plein Air	16/06/2028	Close
 Pension en Plein Air	16/07/2027	9 available
 Pension en Plein Air	16/07/2028	Close
-Pension en Plein Air	16/08/2027	18 available
+Pension en Plein Air	16/08/2027	16 available
 Pension en Plein Air	16/08/2028	Close
 Pension en Plein Air	16/09/2027	57 available
 Pension en Plein Air	16/09/2028	Close
@@ -24748,7 +24748,7 @@ Refuge de Nant Borrant	12/04/2027	Close
 Refuge de Nant Borrant	12/04/2028	Close
 Refuge de Nant Borrant	12/05/2027	Close
 Refuge de Nant Borrant	12/05/2028	Close
-Refuge de Nant Borrant	12/06/2027	1 available
+Refuge de Nant Borrant	12/06/2027	Fully booked
 Refuge de Nant Borrant	12/06/2028	Close
 Refuge de Nant Borrant	12/07/2027	Fully booked
 Refuge de Nant Borrant	12/07/2028	Close
@@ -24874,7 +24874,7 @@ Refuge de Nant Borrant	17/07/2027	Fully booked
 Refuge de Nant Borrant	17/07/2028	Close
 Refuge de Nant Borrant	17/08/2027	3 available
 Refuge de Nant Borrant	17/08/2028	Close
-Refuge de Nant Borrant	17/09/2027	28 available
+Refuge de Nant Borrant	17/09/2027	27 available
 Refuge de Nant Borrant	17/09/2028	Close
 Refuge de Nant Borrant	17/10/2027	Fully booked
 Refuge de Nant Borrant	17/10/2028	Close
@@ -25403,7 +25403,7 @@ Refuge de la Balme	09/06/2027	Close
 Refuge de la Balme	09/06/2028	Close
 Refuge de la Balme	09/07/2027	Fully booked
 Refuge de la Balme	09/07/2028	Close
-Refuge de la Balme	09/08/2027	6 available
+Refuge de la Balme	09/08/2027	4 available
 Refuge de la Balme	09/08/2028	Close
 Refuge de la Balme	09/09/2027	3 available
 Refuge de la Balme	09/09/2028	Close
@@ -25542,7 +25542,7 @@ Refuge de la Balme	15/05/2027	Close
 Refuge de la Balme	15/05/2028	Close
 Refuge de la Balme	15/06/2027	5 available
 Refuge de la Balme	15/06/2028	Close
-Refuge de la Balme	15/07/2027	Fully booked
+Refuge de la Balme	15/07/2027	2 available
 Refuge de la Balme	15/07/2028	Close
 Refuge de la Balme	15/08/2027	6 available
 Refuge de la Balme	15/08/2028	Close
@@ -26846,7 +26846,7 @@ Refuge des Prés	09/07/2027	Fully booked
 Refuge des Prés	09/07/2028	Close
 Refuge des Prés	09/08/2027	1 available
 Refuge des Prés	09/08/2028	Close
-Refuge des Prés	09/09/2027	3 available
+Refuge des Prés	09/09/2027	Fully booked
 Refuge des Prés	09/09/2028	Close
 Refuge des Prés	09/10/2027	30 available
 Refuge des Prés	09/10/2028	Close
@@ -28191,7 +28191,7 @@ Relais d'Arpette	05/05/2027	Close
 Relais d'Arpette	05/05/2028	Close
 Relais d'Arpette	05/06/2027	2 available
 Relais d'Arpette	05/06/2028	Close
-Relais d'Arpette	05/07/2027	44 available
+Relais d'Arpette	05/07/2027	43 available
 Relais d'Arpette	05/07/2028	Close
 Relais d'Arpette	05/08/2027	40 available
 Relais d'Arpette	05/08/2028	Close
@@ -28428,7 +28428,7 @@ Relais d'Arpette	15/07/2027	97 available
 Relais d'Arpette	15/07/2028	Close
 Relais d'Arpette	15/08/2027	71 available
 Relais d'Arpette	15/08/2028	Close
-Relais d'Arpette	15/09/2027	97 available
+Relais d'Arpette	15/09/2027	95 available
 Relais d'Arpette	15/09/2028	Close
 Relais d'Arpette	15/10/2027	Close
 Relais d'Arpette	15/10/2028	Close
@@ -28594,7 +28594,7 @@ Relais d'Arpette	22/06/2027	48 available
 Relais d'Arpette	22/06/2028	Close
 Relais d'Arpette	22/07/2027	57 available
 Relais d'Arpette	22/07/2028	Close
-Relais d'Arpette	22/08/2027	87 available
+Relais d'Arpette	22/08/2027	85 available
 Relais d'Arpette	22/08/2028	Close
 Relais d'Arpette	22/09/2027	84 available
 Relais d'Arpette	22/09/2028	Close
@@ -28690,7 +28690,7 @@ Relais d'Arpette	26/06/2027	89 available
 Relais d'Arpette	26/06/2028	Close
 Relais d'Arpette	26/07/2027	70 available
 Relais d'Arpette	26/07/2028	Close
-Relais d'Arpette	26/08/2027	44 available
+Relais d'Arpette	26/08/2027	42 available
 Relais d'Arpette	26/08/2028	Close
 Relais d'Arpette	26/09/2027	162 available
 Relais d'Arpette	26/09/2028	Close
@@ -30443,7 +30443,7 @@ Rifugio Maison Vieille	09/05/2027	Fully booked
 Rifugio Maison Vieille	09/05/2028	Close
 Rifugio Maison Vieille	09/06/2027	39 available
 Rifugio Maison Vieille	09/06/2028	Close
-Rifugio Maison Vieille	09/07/2027	2 available
+Rifugio Maison Vieille	09/07/2027	Fully booked
 Rifugio Maison Vieille	09/07/2028	Close
 Rifugio Maison Vieille	09/08/2027	6 available
 Rifugio Maison Vieille	09/08/2028	Close
@@ -30466,7 +30466,7 @@ Rifugio Maison Vieille	10/05/2027	Fully booked
 Rifugio Maison Vieille	10/05/2028	Close
 Rifugio Maison Vieille	10/06/2027	40 available
 Rifugio Maison Vieille	10/06/2028	Close
-Rifugio Maison Vieille	10/07/2027	6 available
+Rifugio Maison Vieille	10/07/2027	8 available
 Rifugio Maison Vieille	10/07/2028	Close
 Rifugio Maison Vieille	10/08/2027	18 available
 Rifugio Maison Vieille	10/08/2028	Close
@@ -30750,7 +30750,7 @@ Rifugio Maison Vieille	22/04/2027	Fully booked
 Rifugio Maison Vieille	22/04/2028	Close
 Rifugio Maison Vieille	22/05/2027	Fully booked
 Rifugio Maison Vieille	22/05/2028	Close
-Rifugio Maison Vieille	22/06/2027	3 available
+Rifugio Maison Vieille	22/06/2027	1 available
 Rifugio Maison Vieille	22/06/2028	Close
 Rifugio Maison Vieille	22/07/2027	Fully booked
 Rifugio Maison Vieille	22/07/2028	Close
@@ -30917,7 +30917,7 @@ Rifugio Maison Vieille	29/04/2027	Fully booked
 Rifugio Maison Vieille	29/04/2028	Close
 Rifugio Maison Vieille	29/05/2027	Fully booked
 Rifugio Maison Vieille	29/05/2028	Close
-Rifugio Maison Vieille	29/06/2027	20 available
+Rifugio Maison Vieille	29/06/2027	15 available
 Rifugio Maison Vieille	29/06/2028	Close
 Rifugio Maison Vieille	29/07/2027	9 available
 Rifugio Maison Vieille	29/07/2028	Close
@@ -31237,7 +31237,7 @@ Rifugio Monte Bianco - Cai Uget	12/07/2027	30 available
 Rifugio Monte Bianco - Cai Uget	12/07/2028	Close
 Rifugio Monte Bianco - Cai Uget	12/08/2027	Fully booked
 Rifugio Monte Bianco - Cai Uget	12/08/2028	Close
-Rifugio Monte Bianco - Cai Uget	12/09/2027	21 available
+Rifugio Monte Bianco - Cai Uget	12/09/2027	19 available
 Rifugio Monte Bianco - Cai Uget	12/09/2028	Close
 Rifugio Monte Bianco - Cai Uget	12/10/2027	Fully booked
 Rifugio Monte Bianco - Cai Uget	12/10/2028	Close
@@ -31331,7 +31331,7 @@ Rifugio Monte Bianco - Cai Uget	16/06/2027	5 available
 Rifugio Monte Bianco - Cai Uget	16/06/2028	Close
 Rifugio Monte Bianco - Cai Uget	16/07/2027	45 available
 Rifugio Monte Bianco - Cai Uget	16/07/2028	Close
-Rifugio Monte Bianco - Cai Uget	16/08/2027	17 available
+Rifugio Monte Bianco - Cai Uget	16/08/2027	15 available
 Rifugio Monte Bianco - Cai Uget	16/08/2028	Close
 Rifugio Monte Bianco - Cai Uget	16/09/2027	1 available
 Rifugio Monte Bianco - Cai Uget	16/09/2028	Close
