@@ -2067,7 +2067,7 @@ Auberge Mont-Blanc	27/07/2027	Fully booked
 Auberge Mont-Blanc	27/07/2028	Close
 Auberge Mont-Blanc	27/08/2027	1 available
 Auberge Mont-Blanc	27/08/2028	Close
-Auberge Mont-Blanc	27/09/2027	24 available
+Auberge Mont-Blanc	27/09/2027	22 available
 Auberge Mont-Blanc	27/09/2028	Close
 Auberge Mont-Blanc	27/10/2027	Close
 Auberge Mont-Blanc	27/10/2028	Close
@@ -8049,7 +8049,7 @@ Chalet La Grange	06/07/2027	Fully booked
 Chalet La Grange	06/07/2028	Close
 Chalet La Grange	06/08/2027	1 available
 Chalet La Grange	06/08/2028	Close
-Chalet La Grange	06/09/2027	4 available
+Chalet La Grange	06/09/2027	3 available
 Chalet La Grange	06/09/2028	Close
 Chalet La Grange	06/10/2027	Fully booked
 Chalet La Grange	06/10/2028	Close
@@ -9935,7 +9935,7 @@ Gite le Randonneur du Mont Blanc	25/04/2027	Fully booked
 Gite le Randonneur du Mont Blanc	25/04/2028	Close
 Gite le Randonneur du Mont Blanc	25/05/2027	Fully booked
 Gite le Randonneur du Mont Blanc	25/05/2028	Close
-Gite le Randonneur du Mont Blanc	25/06/2027	20 available
+Gite le Randonneur du Mont Blanc	25/06/2027	18 available
 Gite le Randonneur du Mont Blanc	25/06/2028	Close
 Gite le Randonneur du Mont Blanc	25/07/2027	28 available
 Gite le Randonneur du Mont Blanc	25/07/2028	Close
@@ -10188,7 +10188,7 @@ Gîte Alpage de La Peule	05/07/2027	1 available
 Gîte Alpage de La Peule	05/07/2028	Close
 Gîte Alpage de La Peule	05/08/2027	32 available
 Gîte Alpage de La Peule	05/08/2028	Close
-Gîte Alpage de La Peule	05/09/2027	1 available
+Gîte Alpage de La Peule	05/09/2027	Fully booked
 Gîte Alpage de La Peule	05/09/2028	Close
 Gîte Alpage de La Peule	05/10/2027	Fully booked
 Gîte Alpage de La Peule	05/10/2028	Close
@@ -11955,7 +11955,7 @@ Gîte Le Moulin	19/05/2027	Close
 Gîte Le Moulin	19/05/2028	Close
 Gîte Le Moulin	19/06/2027	6 available
 Gîte Le Moulin	19/06/2028	Close
-Gîte Le Moulin	19/07/2027	12 available
+Gîte Le Moulin	19/07/2027	11 available
 Gîte Le Moulin	19/07/2028	Close
 Gîte Le Moulin	19/08/2027	14 available
 Gîte Le Moulin	19/08/2028	Close
@@ -12169,7 +12169,7 @@ Gîte Le Moulin	28/04/2027	Close
 Gîte Le Moulin	28/04/2028	Close
 Gîte Le Moulin	28/05/2027	Close
 Gîte Le Moulin	28/05/2028	Close
-Gîte Le Moulin	28/06/2027	5 available
+Gîte Le Moulin	28/06/2027	3 available
 Gîte Le Moulin	28/06/2028	Close
 Gîte Le Moulin	28/07/2027	Fully booked
 Gîte Le Moulin	28/07/2028	Close
@@ -12673,7 +12673,7 @@ Gîte Les Mélèzes	19/04/2027	Close
 Gîte Les Mélèzes	19/04/2028	Close
 Gîte Les Mélèzes	19/05/2027	Close
 Gîte Les Mélèzes	19/05/2028	Close
-Gîte Les Mélèzes	19/06/2027	Fully booked
+Gîte Les Mélèzes	19/06/2027	2 available
 Gîte Les Mélèzes	19/06/2028	Close
 Gîte Les Mélèzes	19/07/2027	Fully booked
 Gîte Les Mélèzes	19/07/2028	Close
@@ -15277,7 +15277,7 @@ Gîte le Pontet	07/07/2027	23 available
 Gîte le Pontet	07/07/2028	Close
 Gîte le Pontet	07/08/2027	16 available
 Gîte le Pontet	07/08/2028	Close
-Gîte le Pontet	07/09/2027	21 available
+Gîte le Pontet	07/09/2027	27 available
 Gîte le Pontet	07/09/2028	Close
 Gîte le Pontet	07/10/2027	Fully booked
 Gîte le Pontet	07/10/2028	Close
@@ -15650,7 +15650,7 @@ Gîte le Pontet	23/04/2027	Fully booked
 Gîte le Pontet	23/04/2028	Close
 Gîte le Pontet	23/05/2027	Fully booked
 Gîte le Pontet	23/05/2028	Close
-Gîte le Pontet	23/06/2027	47 available
+Gîte le Pontet	23/06/2027	45 available
 Gîte le Pontet	23/06/2028	Close
 Gîte le Pontet	23/07/2027	15 available
 Gîte le Pontet	23/07/2028	Close
@@ -16466,7 +16466,7 @@ Hotel du Col de Fenêtre	27/04/2027	Fully booked
 Hotel du Col de Fenêtre	27/04/2028	Close
 Hotel du Col de Fenêtre	27/05/2027	Fully booked
 Hotel du Col de Fenêtre	27/05/2028	Close
-Hotel du Col de Fenêtre	27/06/2027	4 available
+Hotel du Col de Fenêtre	27/06/2027	2 available
 Hotel du Col de Fenêtre	27/06/2028	Close
 Hotel du Col de Fenêtre	27/07/2027	5 available
 Hotel du Col de Fenêtre	27/07/2028	Close
@@ -20405,7 +20405,7 @@ La Ferme à Piron	11/04/2027	Close
 La Ferme à Piron	11/04/2028	Close
 La Ferme à Piron	11/05/2027	Close
 La Ferme à Piron	11/05/2028	Close
-La Ferme à Piron	11/06/2027	2 available
+La Ferme à Piron	11/06/2027	6 available
 La Ferme à Piron	11/06/2028	Close
 La Ferme à Piron	11/07/2027	1 available
 La Ferme à Piron	11/07/2028	Close
@@ -20811,7 +20811,7 @@ La Ferme à Piron	28/06/2027	Fully booked
 La Ferme à Piron	28/06/2028	Close
 La Ferme à Piron	28/07/2027	6 available
 La Ferme à Piron	28/07/2028	Close
-La Ferme à Piron	28/08/2027	2 available
+La Ferme à Piron	28/08/2027	Fully booked
 La Ferme à Piron	28/08/2028	Close
 La Ferme à Piron	28/09/2027	Fully booked
 La Ferme à Piron	28/09/2028	Close
@@ -20919,7 +20919,7 @@ La Fouly Lodge	02/07/2027	Fully booked
 La Fouly Lodge	02/07/2028	Close
 La Fouly Lodge	02/08/2027	1 available
 La Fouly Lodge	02/08/2028	Close
-La Fouly Lodge	02/09/2027	7 available
+La Fouly Lodge	02/09/2027	6 available
 La Fouly Lodge	02/09/2028	Close
 La Fouly Lodge	02/10/2027	19 available
 La Fouly Lodge	02/10/2028	Close
@@ -21438,7 +21438,7 @@ La Fouly Lodge	24/07/2027	2 available
 La Fouly Lodge	24/07/2028	Close
 La Fouly Lodge	24/08/2027	8 available
 La Fouly Lodge	24/08/2028	Close
-La Fouly Lodge	24/09/2027	16 available
+La Fouly Lodge	24/09/2027	14 available
 La Fouly Lodge	24/09/2028	Close
 La Fouly Lodge	24/10/2027	Close
 La Fouly Lodge	24/10/2028	Close
@@ -22063,7 +22063,7 @@ Les Chambres du Soleil	20/07/2027	Fully booked
 Les Chambres du Soleil	20/07/2028	Close
 Les Chambres du Soleil	20/08/2027	Fully booked
 Les Chambres du Soleil	20/08/2028	Close
-Les Chambres du Soleil	20/09/2027	6 available
+Les Chambres du Soleil	20/09/2027	3 available
 Les Chambres du Soleil	20/09/2028	Close
 Les Chambres du Soleil	20/10/2027	Fully booked
 Les Chambres du Soleil	20/10/2028	Close
@@ -22384,7 +22384,7 @@ Pension en Plein Air	03/07/2027	11 available
 Pension en Plein Air	03/07/2028	Close
 Pension en Plein Air	03/08/2027	8 available
 Pension en Plein Air	03/08/2028	Close
-Pension en Plein Air	03/09/2027	34 available
+Pension en Plein Air	03/09/2027	33 available
 Pension en Plein Air	03/09/2028	Close
 Pension en Plein Air	03/10/2027	Fully booked
 Pension en Plein Air	03/10/2028	Close
@@ -23128,7 +23128,7 @@ Refuge Le Peuty	04/07/2027	Fully booked
 Refuge Le Peuty	04/07/2028	Close
 Refuge Le Peuty	04/08/2027	Fully booked
 Refuge Le Peuty	04/08/2028	Close
-Refuge Le Peuty	04/09/2027	1 available
+Refuge Le Peuty	04/09/2027	Fully booked
 Refuge Le Peuty	04/09/2028	Close
 Refuge Le Peuty	04/10/2027	Close
 Refuge Le Peuty	04/10/2028	Close
@@ -24434,7 +24434,7 @@ Refuge Les Ecuries de Charamillon	29/04/2027	Close
 Refuge Les Ecuries de Charamillon	29/04/2028	Close
 Refuge Les Ecuries de Charamillon	29/05/2027	Close
 Refuge Les Ecuries de Charamillon	29/05/2028	Close
-Refuge Les Ecuries de Charamillon	29/06/2027	43 available
+Refuge Les Ecuries de Charamillon	29/06/2027	41 available
 Refuge Les Ecuries de Charamillon	29/06/2028	Close
 Refuge Les Ecuries de Charamillon	29/07/2027	43 available
 Refuge Les Ecuries de Charamillon	29/07/2028	Close
@@ -24798,7 +24798,7 @@ Refuge de Nant Borrant	14/05/2027	Close
 Refuge de Nant Borrant	14/05/2028	Close
 Refuge de Nant Borrant	14/06/2027	Fully booked
 Refuge de Nant Borrant	14/06/2028	Close
-Refuge de Nant Borrant	14/07/2027	1 available
+Refuge de Nant Borrant	14/07/2027	Fully booked
 Refuge de Nant Borrant	14/07/2028	Close
 Refuge de Nant Borrant	14/08/2027	Fully booked
 Refuge de Nant Borrant	14/08/2028	Close
@@ -24942,7 +24942,7 @@ Refuge de Nant Borrant	20/05/2027	Close
 Refuge de Nant Borrant	20/05/2028	Close
 Refuge de Nant Borrant	20/06/2027	Fully booked
 Refuge de Nant Borrant	20/06/2028	Close
-Refuge de Nant Borrant	20/07/2027	1 available
+Refuge de Nant Borrant	20/07/2027	Fully booked
 Refuge de Nant Borrant	20/07/2028	Close
 Refuge de Nant Borrant	20/08/2027	Fully booked
 Refuge de Nant Borrant	20/08/2028	Close
@@ -25311,7 +25311,7 @@ Refuge de la Balme	05/06/2027	Close
 Refuge de la Balme	05/06/2028	Close
 Refuge de la Balme	05/07/2027	Fully booked
 Refuge de la Balme	05/07/2028	Close
-Refuge de la Balme	05/08/2027	6 available
+Refuge de la Balme	05/08/2027	8 available
 Refuge de la Balme	05/08/2028	Close
 Refuge de la Balme	05/09/2027	Fully booked
 Refuge de la Balme	05/09/2028	Close
@@ -25784,7 +25784,7 @@ Refuge de la Balme	25/06/2027	1 available
 Refuge de la Balme	25/06/2028	Close
 Refuge de la Balme	25/07/2027	Fully booked
 Refuge de la Balme	25/07/2028	Close
-Refuge de la Balme	25/08/2027	18 available
+Refuge de la Balme	25/08/2027	16 available
 Refuge de la Balme	25/08/2028	Close
 Refuge de la Balme	25/09/2027	Fully booked
 Refuge de la Balme	25/09/2028	Close
@@ -25879,7 +25879,7 @@ Refuge de la Balme	29/06/2027	Fully booked
 Refuge de la Balme	29/06/2028	Close
 Refuge de la Balme	29/07/2027	3 available
 Refuge de la Balme	29/07/2028	Close
-Refuge de la Balme	29/08/2027	1 available
+Refuge de la Balme	29/08/2027	Fully booked
 Refuge de la Balme	29/08/2028	Close
 Refuge de la Balme	29/09/2027	Fully booked
 Refuge de la Balme	29/09/2028	Close
@@ -28734,7 +28734,7 @@ Relais d'Arpette	28/04/2027	Close
 Relais d'Arpette	28/04/2028	Close
 Relais d'Arpette	28/05/2027	Close
 Relais d'Arpette	28/05/2028	Close
-Relais d'Arpette	28/06/2027	53 available
+Relais d'Arpette	28/06/2027	51 available
 Relais d'Arpette	28/06/2028	Close
 Relais d'Arpette	28/07/2027	85 available
 Relais d'Arpette	28/07/2028	Close
@@ -29168,7 +29168,7 @@ Rifugio Chapy Mont Blanc	16/05/2027	Close
 Rifugio Chapy Mont Blanc	16/05/2028	Close
 Rifugio Chapy Mont Blanc	16/06/2027	25 available
 Rifugio Chapy Mont Blanc	16/06/2028	Close
-Rifugio Chapy Mont Blanc	16/07/2027	5 available
+Rifugio Chapy Mont Blanc	16/07/2027	4 available
 Rifugio Chapy Mont Blanc	16/07/2028	Close
 Rifugio Chapy Mont Blanc	16/08/2027	19 available
 Rifugio Chapy Mont Blanc	16/08/2028	Close
@@ -30961,7 +30961,7 @@ Rifugio Maison Vieille	31/05/2027	Fully booked
 Rifugio Maison Vieille	31/05/2028	Close
 Rifugio Maison Vieille	31/07/2027	15 available
 Rifugio Maison Vieille	31/07/2028	Close
-Rifugio Maison Vieille	31/08/2027	8 available
+Rifugio Maison Vieille	31/08/2027	7 available
 Rifugio Maison Vieille	31/08/2028	Close
 Rifugio Maison Vieille	31/10/2027	Fully booked
 Rifugio Maison Vieille	31/10/2028	Close
