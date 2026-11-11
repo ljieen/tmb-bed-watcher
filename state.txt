@@ -4867,7 +4867,7 @@ Auberge la Grande Ourse	24/06/2027	1 available
 Auberge la Grande Ourse	24/06/2028	Close
 Auberge la Grande Ourse	24/07/2027	Fully booked
 Auberge la Grande Ourse	24/07/2028	Close
-Auberge la Grande Ourse	24/08/2027	6 available
+Auberge la Grande Ourse	24/08/2027	8 available
 Auberge la Grande Ourse	24/08/2028	Close
 Auberge la Grande Ourse	24/09/2027	Fully booked
 Auberge la Grande Ourse	24/09/2028	Close
