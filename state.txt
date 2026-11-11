@@ -2886,7 +2886,7 @@ Auberge du Truc	01/05/2027	Fully booked
 Auberge du Truc	01/05/2028	Close
 Auberge du Truc	01/06/2027	Fully booked
 Auberge du Truc	01/06/2028	Close
-Auberge du Truc	01/07/2027	14 available
+Auberge du Truc	01/07/2027	16 available
 Auberge du Truc	01/07/2028	Close
 Auberge du Truc	01/08/2027	14 available
 Auberge du Truc	01/08/2028	Close
@@ -8637,7 +8637,7 @@ Chalet Les Méandres (ex Tupilak)	01/04/2027	33 available
 Chalet Les Méandres (ex Tupilak)	01/04/2028	Close
 Chalet Les Méandres (ex Tupilak)	01/05/2027	33 available
 Chalet Les Méandres (ex Tupilak)	01/05/2028	Close
-Chalet Les Méandres (ex Tupilak)	01/06/2027	38 available
+Chalet Les Méandres (ex Tupilak)	01/06/2027	40 available
 Chalet Les Méandres (ex Tupilak)	01/06/2028	Close
 Chalet Les Méandres (ex Tupilak)	01/07/2027	33 available
 Chalet Les Méandres (ex Tupilak)	01/07/2028	Close
@@ -9897,7 +9897,7 @@ Gite le Randonneur du Mont Blanc	24/04/2027	Fully booked
 Gite le Randonneur du Mont Blanc	24/04/2028	Close
 Gite le Randonneur du Mont Blanc	24/05/2027	Fully booked
 Gite le Randonneur du Mont Blanc	24/05/2028	Close
-Gite le Randonneur du Mont Blanc	24/06/2027	21 available
+Gite le Randonneur du Mont Blanc	24/06/2027	19 available
 Gite le Randonneur du Mont Blanc	24/06/2028	Close
 Gite le Randonneur du Mont Blanc	24/07/2027	25 available
 Gite le Randonneur du Mont Blanc	24/07/2028	Close
@@ -14264,7 +14264,7 @@ Gîte Michel Fagot	26/05/2027	Fully booked
 Gîte Michel Fagot	26/05/2028	Close
 Gîte Michel Fagot	26/06/2027	8 available
 Gîte Michel Fagot	26/06/2028	Close
-Gîte Michel Fagot	26/07/2027	10 available
+Gîte Michel Fagot	26/07/2027	8 available
 Gîte Michel Fagot	26/07/2028	Close
 Gîte Michel Fagot	26/08/2027	14 available
 Gîte Michel Fagot	26/08/2028	Close
@@ -20658,7 +20658,7 @@ La Ferme à Piron	23/04/2027	Close
 La Ferme à Piron	23/04/2028	Close
 La Ferme à Piron	23/05/2027	Close
 La Ferme à Piron	23/05/2028	Close
-La Ferme à Piron	23/06/2027	4 available
+La Ferme à Piron	23/06/2027	2 available
 La Ferme à Piron	23/06/2028	Close
 La Ferme à Piron	23/07/2027	Fully booked
 La Ferme à Piron	23/07/2028	Close
@@ -29034,7 +29034,7 @@ Rifugio Chapy Mont Blanc	12/06/2027	21 available
 Rifugio Chapy Mont Blanc	12/06/2028	Close
 Rifugio Chapy Mont Blanc	12/07/2027	22 available
 Rifugio Chapy Mont Blanc	12/07/2028	Close
-Rifugio Chapy Mont Blanc	12/08/2027	21 available
+Rifugio Chapy Mont Blanc	12/08/2027	24 available
 Rifugio Chapy Mont Blanc	12/08/2028	Close
 Rifugio Chapy Mont Blanc	12/09/2027	25 available
 Rifugio Chapy Mont Blanc	12/09/2028	Close
