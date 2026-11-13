@@ -4181,7 +4181,7 @@ Auberge la Boërne	26/05/2027	Fully booked
 Auberge la Boërne	26/05/2028	Close
 Auberge la Boërne	26/06/2027	Fully booked
 Auberge la Boërne	26/06/2028	Close
-Auberge la Boërne	26/07/2027	3 available
+Auberge la Boërne	26/07/2027	1 available
 Auberge la Boërne	26/07/2028	Close
 Auberge la Boërne	26/08/2027	1 available
 Auberge la Boërne	26/08/2028	Close
@@ -8757,7 +8757,7 @@ Chalet Les Méandres (ex Tupilak)	07/07/2027	30 available
 Chalet Les Méandres (ex Tupilak)	07/07/2028	Close
 Chalet Les Méandres (ex Tupilak)	07/08/2027	38 available
 Chalet Les Méandres (ex Tupilak)	07/08/2028	Close
-Chalet Les Méandres (ex Tupilak)	07/09/2027	32 available
+Chalet Les Méandres (ex Tupilak)	07/09/2027	31 available
 Chalet Les Méandres (ex Tupilak)	07/09/2028	Close
 Chalet Les Méandres (ex Tupilak)	07/10/2027	40 available
 Chalet Les Méandres (ex Tupilak)	07/10/2028	Close
@@ -13637,7 +13637,7 @@ Gîte Michel Fagot	01/05/2027	Fully booked
 Gîte Michel Fagot	01/05/2028	Close
 Gîte Michel Fagot	01/06/2027	Fully booked
 Gîte Michel Fagot	01/06/2028	Close
-Gîte Michel Fagot	01/07/2027	9 available
+Gîte Michel Fagot	01/07/2027	8 available
 Gîte Michel Fagot	01/07/2028	Close
 Gîte Michel Fagot	01/08/2027	14 available
 Gîte Michel Fagot	01/08/2028	Close
@@ -20235,7 +20235,7 @@ La Ferme à Piron	07/07/2027	2 available
 La Ferme à Piron	07/07/2028	Close
 La Ferme à Piron	07/08/2027	4 available
 La Ferme à Piron	07/08/2028	Close
-La Ferme à Piron	07/09/2027	13 available
+La Ferme à Piron	07/09/2027	12 available
 La Ferme à Piron	07/09/2028	Close
 La Ferme à Piron	07/10/2027	Fully booked
 La Ferme à Piron	07/10/2028	Close
@@ -28332,7 +28332,7 @@ Relais d'Arpette	16/07/2027	54 available
 Relais d'Arpette	16/07/2028	Close
 Relais d'Arpette	16/08/2027	77 available
 Relais d'Arpette	16/08/2028	Close
-Relais d'Arpette	16/09/2027	97 available
+Relais d'Arpette	16/09/2027	95 available
 Relais d'Arpette	16/09/2028	Close
 Relais d'Arpette	16/10/2027	Close
 Relais d'Arpette	16/10/2028	Close
@@ -30765,7 +30765,7 @@ Rifugio Maison Vieille	28/04/2027	Fully booked
 Rifugio Maison Vieille	28/04/2028	Close
 Rifugio Maison Vieille	28/05/2027	Fully booked
 Rifugio Maison Vieille	28/05/2028	Close
-Rifugio Maison Vieille	28/06/2027	5 available
+Rifugio Maison Vieille	28/06/2027	Fully booked
 Rifugio Maison Vieille	28/06/2028	Close
 Rifugio Maison Vieille	28/07/2027	Fully booked
 Rifugio Maison Vieille	28/07/2028	Close
