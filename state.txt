@@ -7722,7 +7722,7 @@ Chalet Alpin du Tour (FFCAM)	26/05/2027	Fully booked
 Chalet Alpin du Tour (FFCAM)	26/05/2028	Close
 Chalet Alpin du Tour (FFCAM)	26/06/2027	10 available
 Chalet Alpin du Tour (FFCAM)	26/06/2028	Close
-Chalet Alpin du Tour (FFCAM)	26/07/2027	19 available
+Chalet Alpin du Tour (FFCAM)	26/07/2027	17 available
 Chalet Alpin du Tour (FFCAM)	26/07/2028	Close
 Chalet Alpin du Tour (FFCAM)	26/08/2027	Fully booked
 Chalet Alpin du Tour (FFCAM)	26/08/2028	Close
@@ -29688,7 +29688,7 @@ Rifugio G. Bertone	20/04/2027	Close
 Rifugio G. Bertone	20/04/2028	Close
 Rifugio G. Bertone	20/05/2027	Close
 Rifugio G. Bertone	20/05/2028	Close
-Rifugio G. Bertone	20/06/2027	3 available
+Rifugio G. Bertone	20/06/2027	1 available
 Rifugio G. Bertone	20/06/2028	Close
 Rifugio G. Bertone	20/07/2027	Fully booked
 Rifugio G. Bertone	20/07/2028	Close
