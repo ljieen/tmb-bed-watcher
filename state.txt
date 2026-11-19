@@ -9126,7 +9126,7 @@ Chalet Les Méandres (ex Tupilak)	26/06/2027	31 available
 Chalet Les Méandres (ex Tupilak)	26/06/2028	Close
 Chalet Les Méandres (ex Tupilak)	26/07/2027	31 available
 Chalet Les Méandres (ex Tupilak)	26/07/2028	Close
-Chalet Les Méandres (ex Tupilak)	26/08/2027	29 available
+Chalet Les Méandres (ex Tupilak)	26/08/2027	27 available
 Chalet Les Méandres (ex Tupilak)	26/08/2028	Close
 Chalet Les Méandres (ex Tupilak)	26/09/2027	38 available
 Chalet Les Méandres (ex Tupilak)	26/09/2028	Close
@@ -11112,7 +11112,7 @@ Gîte La Léchère	20/04/2027	Fully booked
 Gîte La Léchère	20/04/2028	Close
 Gîte La Léchère	20/05/2027	Fully booked
 Gîte La Léchère	20/05/2028	Close
-Gîte La Léchère	20/06/2027	16 available
+Gîte La Léchère	20/06/2027	14 available
 Gîte La Léchère	20/06/2028	Close
 Gîte La Léchère	20/07/2027	12 available
 Gîte La Léchère	20/07/2028	Close
@@ -13569,7 +13569,7 @@ Gîte Michel Fagot	03/05/2027	Fully booked
 Gîte Michel Fagot	03/05/2028	Close
 Gîte Michel Fagot	03/06/2027	Fully booked
 Gîte Michel Fagot	03/06/2028	Close
-Gîte Michel Fagot	03/07/2027	6 available
+Gîte Michel Fagot	03/07/2027	4 available
 Gîte Michel Fagot	03/07/2028	Close
 Gîte Michel Fagot	03/08/2027	7 available
 Gîte Michel Fagot	03/08/2028	Close
@@ -13638,7 +13638,7 @@ Gîte Michel Fagot	06/05/2027	Fully booked
 Gîte Michel Fagot	06/05/2028	Close
 Gîte Michel Fagot	06/06/2027	24 available
 Gîte Michel Fagot	06/06/2028	Close
-Gîte Michel Fagot	06/07/2027	13 available
+Gîte Michel Fagot	06/07/2027	15 available
 Gîte Michel Fagot	06/07/2028	Close
 Gîte Michel Fagot	06/08/2027	15 available
 Gîte Michel Fagot	06/08/2028	Close
@@ -14195,7 +14195,7 @@ Gîte Michel Fagot	30/04/2027	Fully booked
 Gîte Michel Fagot	30/04/2028	Close
 Gîte Michel Fagot	30/05/2027	Fully booked
 Gîte Michel Fagot	30/05/2028	Close
-Gîte Michel Fagot	30/06/2027	14 available
+Gîte Michel Fagot	30/06/2027	16 available
 Gîte Michel Fagot	30/06/2028	Close
 Gîte Michel Fagot	30/07/2027	20 available
 Gîte Michel Fagot	30/07/2028	Close
@@ -14946,7 +14946,7 @@ Gîte le Pontet	01/05/2027	Fully booked
 Gîte le Pontet	01/05/2028	Close
 Gîte le Pontet	01/06/2027	76 available
 Gîte le Pontet	01/06/2028	Close
-Gîte le Pontet	01/07/2027	2 available
+Gîte le Pontet	01/07/2027	4 available
 Gîte le Pontet	01/07/2028	Close
 Gîte le Pontet	01/08/2027	9 available
 Gîte le Pontet	01/08/2028	Close
@@ -15084,7 +15084,7 @@ Gîte le Pontet	07/05/2027	Fully booked
 Gîte le Pontet	07/05/2028	Close
 Gîte le Pontet	07/06/2027	61 available
 Gîte le Pontet	07/06/2028	Close
-Gîte le Pontet	07/07/2027	11 available
+Gîte le Pontet	07/07/2027	13 available
 Gîte le Pontet	07/07/2028	Close
 Gîte le Pontet	07/08/2027	16 available
 Gîte le Pontet	07/08/2028	Close
@@ -15617,7 +15617,7 @@ Gîte le Pontet	30/04/2027	Fully booked
 Gîte le Pontet	30/04/2028	Close
 Gîte le Pontet	30/05/2027	Fully booked
 Gîte le Pontet	30/05/2028	Close
-Gîte le Pontet	30/06/2027	9 available
+Gîte le Pontet	30/06/2027	7 available
 Gîte le Pontet	30/06/2028	Close
 Gîte le Pontet	30/07/2027	34 available
 Gîte le Pontet	30/07/2028	Close
@@ -27356,7 +27356,7 @@ Refuge du Fioux	15/04/2027	Close
 Refuge du Fioux	15/04/2028	Close
 Refuge du Fioux	15/05/2027	Close
 Refuge du Fioux	15/05/2028	Close
-Refuge du Fioux	15/06/2027	24 available
+Refuge du Fioux	15/06/2027	22 available
 Refuge du Fioux	15/06/2028	Close
 Refuge du Fioux	15/07/2027	20 available
 Refuge du Fioux	15/07/2028	Close
