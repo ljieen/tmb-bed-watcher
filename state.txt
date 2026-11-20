@@ -8834,7 +8834,7 @@ Chalet Les Méandres (ex Tupilak)	14/07/2027	40 available
 Chalet Les Méandres (ex Tupilak)	14/07/2028	Close
 Chalet Les Méandres (ex Tupilak)	14/08/2027	40 available
 Chalet Les Méandres (ex Tupilak)	14/08/2028	Close
-Chalet Les Méandres (ex Tupilak)	14/09/2027	37 available
+Chalet Les Méandres (ex Tupilak)	14/09/2027	39 available
 Chalet Les Méandres (ex Tupilak)	14/09/2028	Close
 Chalet Les Méandres (ex Tupilak)	14/10/2027	Fully booked
 Chalet Les Méandres (ex Tupilak)	14/10/2028	Close
@@ -9932,7 +9932,7 @@ Gite le Randonneur du Mont Blanc	31/03/2027	Fully booked
 Gite le Randonneur du Mont Blanc	31/03/2028	Close
 Gite le Randonneur du Mont Blanc	31/05/2027	Fully booked
 Gite le Randonneur du Mont Blanc	31/05/2028	Close
-Gite le Randonneur du Mont Blanc	31/07/2027	33 available
+Gite le Randonneur du Mont Blanc	31/07/2027	31 available
 Gite le Randonneur du Mont Blanc	31/07/2028	Close
 Gite le Randonneur du Mont Blanc	31/08/2027	7 available
 Gite le Randonneur du Mont Blanc	31/08/2028	Close
@@ -15938,7 +15938,7 @@ Hotel du Col de Fenêtre	14/07/2027	12 available
 Hotel du Col de Fenêtre	14/07/2028	Close
 Hotel du Col de Fenêtre	14/08/2027	15 available
 Hotel du Col de Fenêtre	14/08/2028	Close
-Hotel du Col de Fenêtre	14/09/2027	6 available
+Hotel du Col de Fenêtre	14/09/2027	5 available
 Hotel du Col de Fenêtre	14/09/2028	Close
 Hotel du Col de Fenêtre	14/10/2027	Fully booked
 Hotel du Col de Fenêtre	14/10/2028	Close
@@ -18024,7 +18024,7 @@ Hôtel Funivia	12/07/2027	2 available
 Hôtel Funivia	12/07/2028	Close
 Hôtel Funivia	12/08/2027	Fully booked
 Hôtel Funivia	12/08/2028	Close
-Hôtel Funivia	12/09/2027	14 available
+Hôtel Funivia	12/09/2027	12 available
 Hôtel Funivia	12/09/2028	Close
 Hôtel Funivia	12/10/2027	Fully booked
 Hôtel Funivia	12/10/2028	Close
@@ -20223,7 +20223,7 @@ La Ferme à Piron	15/07/2027	11 available
 La Ferme à Piron	15/07/2028	Close
 La Ferme à Piron	15/08/2027	Fully booked
 La Ferme à Piron	15/08/2028	Close
-La Ferme à Piron	15/09/2027	12 available
+La Ferme à Piron	15/09/2027	14 available
 La Ferme à Piron	15/09/2028	Close
 La Ferme à Piron	15/10/2027	Close
 La Ferme à Piron	15/10/2028	Close
@@ -22350,7 +22350,7 @@ Pension en Plein Air	15/07/2027	22 available
 Pension en Plein Air	15/07/2028	Close
 Pension en Plein Air	15/08/2027	26 available
 Pension en Plein Air	15/08/2028	Close
-Pension en Plein Air	15/09/2027	38 available
+Pension en Plein Air	15/09/2027	36 available
 Pension en Plein Air	15/09/2028	Close
 Pension en Plein Air	15/10/2027	Fully booked
 Pension en Plein Air	15/10/2028	Close
@@ -26637,7 +26637,7 @@ Refuge des Prés	16/07/2027	1 available
 Refuge des Prés	16/07/2028	Close
 Refuge des Prés	16/08/2027	4 available
 Refuge des Prés	16/08/2028	Close
-Refuge des Prés	16/09/2027	11 available
+Refuge des Prés	16/09/2027	13 available
 Refuge des Prés	16/09/2028	Close
 Refuge des Prés	16/10/2027	30 available
 Refuge des Prés	16/10/2028	Close
@@ -30783,7 +30783,7 @@ Rifugio Monte Bianco - Cai Uget	11/07/2027	6 available
 Rifugio Monte Bianco - Cai Uget	11/07/2028	Close
 Rifugio Monte Bianco - Cai Uget	11/08/2027	8 available
 Rifugio Monte Bianco - Cai Uget	11/08/2028	Close
-Rifugio Monte Bianco - Cai Uget	11/09/2027	4 available
+Rifugio Monte Bianco - Cai Uget	11/09/2027	3 available
 Rifugio Monte Bianco - Cai Uget	11/09/2028	Close
 Rifugio Monte Bianco - Cai Uget	11/10/2027	Fully booked
 Rifugio Monte Bianco - Cai Uget	11/10/2028	Close
