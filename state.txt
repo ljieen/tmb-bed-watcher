@@ -3955,7 +3955,7 @@ Auberge la Boërne	18/07/2027	Fully booked
 Auberge la Boërne	18/07/2028	Close
 Auberge la Boërne	18/08/2027	Fully booked
 Auberge la Boërne	18/08/2028	Close
-Auberge la Boërne	18/09/2027	8 available
+Auberge la Boërne	18/09/2027	7 available
 Auberge la Boërne	18/09/2028	Close
 Auberge la Boërne	18/10/2027	Fully booked
 Auberge la Boërne	18/10/2028	Close
@@ -4212,7 +4212,7 @@ Auberge la Boërne	29/06/2027	1 available
 Auberge la Boërne	29/06/2028	Close
 Auberge la Boërne	29/07/2027	Fully booked
 Auberge la Boërne	29/07/2028	Close
-Auberge la Boërne	29/08/2027	Fully booked
+Auberge la Boërne	29/08/2027	1 available
 Auberge la Boërne	29/08/2028	Close
 Auberge la Boërne	29/09/2027	25 available
 Auberge la Boërne	29/09/2028	Close
@@ -8719,7 +8719,7 @@ Chalet Les Méandres (ex Tupilak)	09/07/2027	35 available
 Chalet Les Méandres (ex Tupilak)	09/07/2028	Close
 Chalet Les Méandres (ex Tupilak)	09/08/2027	30 available
 Chalet Les Méandres (ex Tupilak)	09/08/2028	Close
-Chalet Les Méandres (ex Tupilak)	09/09/2027	38 available
+Chalet Les Méandres (ex Tupilak)	09/09/2027	37 available
 Chalet Les Méandres (ex Tupilak)	09/09/2028	Close
 Chalet Les Méandres (ex Tupilak)	09/10/2027	40 available
 Chalet Les Méandres (ex Tupilak)	09/10/2028	Close
@@ -10529,7 +10529,7 @@ Gîte Alpage de La Peule	26/04/2027	Fully booked
 Gîte Alpage de La Peule	26/04/2028	Close
 Gîte Alpage de La Peule	26/05/2027	Fully booked
 Gîte Alpage de La Peule	26/05/2028	Close
-Gîte Alpage de La Peule	26/06/2027	22 available
+Gîte Alpage de La Peule	26/06/2027	23 available
 Gîte Alpage de La Peule	26/06/2028	Close
 Gîte Alpage de La Peule	26/07/2027	7 available
 Gîte Alpage de La Peule	26/07/2028	Close
@@ -19536,7 +19536,7 @@ Hôtel du Col de la Forclaz	16/07/2027	Fully booked
 Hôtel du Col de la Forclaz	16/07/2028	Close
 Hôtel du Col de la Forclaz	16/08/2027	Fully booked
 Hôtel du Col de la Forclaz	16/08/2028	Close
-Hôtel du Col de la Forclaz	16/09/2027	2 available
+Hôtel du Col de la Forclaz	16/09/2027	1 available
 Hôtel du Col de la Forclaz	16/09/2028	Close
 Hôtel du Col de la Forclaz	16/10/2027	Fully booked
 Hôtel du Col de la Forclaz	16/10/2028	Close
@@ -19816,7 +19816,7 @@ Hôtel du Col de la Forclaz	28/06/2027	Fully booked
 Hôtel du Col de la Forclaz	28/06/2028	Close
 Hôtel du Col de la Forclaz	28/07/2027	Fully booked
 Hôtel du Col de la Forclaz	28/07/2028	Close
-Hôtel du Col de la Forclaz	28/08/2027	1 available
+Hôtel du Col de la Forclaz	28/08/2027	2 available
 Hôtel du Col de la Forclaz	28/08/2028	Close
 Hôtel du Col de la Forclaz	28/09/2027	20 available
 Hôtel du Col de la Forclaz	28/09/2028	Close
@@ -21388,7 +21388,7 @@ Les Chambres du Soleil	04/08/2027	Fully booked
 Les Chambres du Soleil	04/08/2028	Close
 Les Chambres du Soleil	04/09/2027	Fully booked
 Les Chambres du Soleil	04/09/2028	Close
-Les Chambres du Soleil	04/10/2027	15 available
+Les Chambres du Soleil	04/10/2027	18 available
 Les Chambres du Soleil	04/10/2028	Close
 Les Chambres du Soleil	04/11/2027	Fully booked
 Les Chambres du Soleil	04/12/2026	Fully booked
@@ -21411,7 +21411,7 @@ Les Chambres du Soleil	05/08/2027	Fully booked
 Les Chambres du Soleil	05/08/2028	Close
 Les Chambres du Soleil	05/09/2027	Fully booked
 Les Chambres du Soleil	05/09/2028	Close
-Les Chambres du Soleil	05/10/2027	15 available
+Les Chambres du Soleil	05/10/2027	18 available
 Les Chambres du Soleil	05/10/2028	Close
 Les Chambres du Soleil	05/11/2027	Fully booked
 Les Chambres du Soleil	05/12/2026	Fully booked
@@ -26357,7 +26357,7 @@ Refuge des Prés	04/05/2027	Fully booked
 Refuge des Prés	04/05/2028	Close
 Refuge des Prés	04/06/2027	Fully booked
 Refuge des Prés	04/06/2028	Close
-Refuge des Prés	04/07/2027	2 available
+Refuge des Prés	04/07/2027	Fully booked
 Refuge des Prés	04/07/2028	Close
 Refuge des Prés	04/08/2027	Fully booked
 Refuge des Prés	04/08/2028	Close
@@ -26499,7 +26499,7 @@ Refuge des Prés	10/07/2027	1 available
 Refuge des Prés	10/07/2028	Close
 Refuge des Prés	10/08/2027	3 available
 Refuge des Prés	10/08/2028	Close
-Refuge des Prés	10/09/2027	15 available
+Refuge des Prés	10/09/2027	14 available
 Refuge des Prés	10/09/2028	Close
 Refuge des Prés	10/10/2027	Fully booked
 Refuge des Prés	10/10/2028	Close
@@ -26938,7 +26938,7 @@ Refuge des Prés	29/05/2027	Close
 Refuge des Prés	29/05/2028	Close
 Refuge des Prés	29/06/2027	Fully booked
 Refuge des Prés	29/06/2028	Close
-Refuge des Prés	29/07/2027	2 available
+Refuge des Prés	29/07/2027	Fully booked
 Refuge des Prés	29/07/2028	Close
 Refuge des Prés	29/08/2027	4 available
 Refuge des Prés	29/08/2028	Close
@@ -27186,7 +27186,7 @@ Refuge du Fioux	09/07/2027	18 available
 Refuge du Fioux	09/07/2028	Close
 Refuge du Fioux	09/08/2027	24 available
 Refuge du Fioux	09/08/2028	Close
-Refuge du Fioux	09/09/2027	22 available
+Refuge du Fioux	09/09/2027	21 available
 Refuge du Fioux	09/09/2028	Close
 Refuge du Fioux	09/10/2027	Fully booked
 Refuge du Fioux	09/10/2028	Close
@@ -28996,7 +28996,7 @@ Rifugio Chapy Mont Blanc	26/04/2027	Close
 Rifugio Chapy Mont Blanc	26/04/2028	Close
 Rifugio Chapy Mont Blanc	26/05/2027	Close
 Rifugio Chapy Mont Blanc	26/05/2028	Close
-Rifugio Chapy Mont Blanc	26/06/2027	17 available
+Rifugio Chapy Mont Blanc	26/06/2027	18 available
 Rifugio Chapy Mont Blanc	26/06/2028	Close
 Rifugio Chapy Mont Blanc	26/07/2027	17 available
 Rifugio Chapy Mont Blanc	26/07/2028	Close
