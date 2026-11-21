@@ -7726,7 +7726,7 @@ Chalet Alpin du Tour (FFCAM)	28/05/2027	20 available
 Chalet Alpin du Tour (FFCAM)	28/05/2028	Close
 Chalet Alpin du Tour (FFCAM)	28/06/2027	14 available
 Chalet Alpin du Tour (FFCAM)	28/06/2028	Close
-Chalet Alpin du Tour (FFCAM)	28/07/2027	9 available
+Chalet Alpin du Tour (FFCAM)	28/07/2027	8 available
 Chalet Alpin du Tour (FFCAM)	28/07/2028	Close
 Chalet Alpin du Tour (FFCAM)	28/08/2027	16 available
 Chalet Alpin du Tour (FFCAM)	28/08/2028	Close
@@ -9211,7 +9211,7 @@ Chalet Les Méandres (ex Tupilak)	31/05/2027	33 available
 Chalet Les Méandres (ex Tupilak)	31/05/2028	Close
 Chalet Les Méandres (ex Tupilak)	31/07/2027	40 available
 Chalet Les Méandres (ex Tupilak)	31/07/2028	Close
-Chalet Les Méandres (ex Tupilak)	31/08/2027	36 available
+Chalet Les Méandres (ex Tupilak)	31/08/2027	33 available
 Chalet Les Méandres (ex Tupilak)	31/08/2028	Close
 Chalet Les Méandres (ex Tupilak)	31/10/2027	Close
 Chalet Les Méandres (ex Tupilak)	31/10/2028	Close
@@ -9275,7 +9275,7 @@ Gite le Randonneur du Mont Blanc	03/05/2027	Fully booked
 Gite le Randonneur du Mont Blanc	03/05/2028	Close
 Gite le Randonneur du Mont Blanc	03/06/2027	Fully booked
 Gite le Randonneur du Mont Blanc	03/06/2028	Close
-Gite le Randonneur du Mont Blanc	03/07/2027	9 available
+Gite le Randonneur du Mont Blanc	03/07/2027	7 available
 Gite le Randonneur du Mont Blanc	03/07/2028	Close
 Gite le Randonneur du Mont Blanc	03/08/2027	Fully booked
 Gite le Randonneur du Mont Blanc	03/08/2028	Close
@@ -9323,7 +9323,7 @@ Gite le Randonneur du Mont Blanc	05/06/2027	Fully booked
 Gite le Randonneur du Mont Blanc	05/06/2028	Close
 Gite le Randonneur du Mont Blanc	05/07/2027	19 available
 Gite le Randonneur du Mont Blanc	05/07/2028	Close
-Gite le Randonneur du Mont Blanc	05/08/2027	2 available
+Gite le Randonneur du Mont Blanc	05/08/2027	Fully booked
 Gite le Randonneur du Mont Blanc	05/08/2028	Close
 Gite le Randonneur du Mont Blanc	05/09/2027	18 available
 Gite le Randonneur du Mont Blanc	05/09/2028	Close
@@ -10237,7 +10237,7 @@ Gîte Alpage de La Peule	14/05/2027	Fully booked
 Gîte Alpage de La Peule	14/05/2028	Close
 Gîte Alpage de La Peule	14/06/2027	23 available
 Gîte Alpage de La Peule	14/06/2028	Close
-Gîte Alpage de La Peule	14/07/2027	16 available
+Gîte Alpage de La Peule	14/07/2027	18 available
 Gîte Alpage de La Peule	14/07/2028	Close
 Gîte Alpage de La Peule	14/08/2027	9 available
 Gîte Alpage de La Peule	14/08/2028	Close
@@ -11702,7 +11702,7 @@ Gîte Le Moulin	16/05/2027	Close
 Gîte Le Moulin	16/05/2028	Close
 Gîte Le Moulin	16/06/2027	9 available
 Gîte Le Moulin	16/06/2028	Close
-Gîte Le Moulin	16/07/2027	Fully booked
+Gîte Le Moulin	16/07/2027	1 available
 Gîte Le Moulin	16/07/2028	Close
 Gîte Le Moulin	16/08/2027	19 available
 Gîte Le Moulin	16/08/2028	Close
@@ -24379,7 +24379,7 @@ Refuge de Nant Borrant	12/07/2027	Fully booked
 Refuge de Nant Borrant	12/07/2028	Close
 Refuge de Nant Borrant	12/08/2027	Fully booked
 Refuge de Nant Borrant	12/08/2028	Close
-Refuge de Nant Borrant	12/09/2027	12 available
+Refuge de Nant Borrant	12/09/2027	4 available
 Refuge de Nant Borrant	12/09/2028	Close
 Refuge de Nant Borrant	12/10/2027	Fully booked
 Refuge de Nant Borrant	12/10/2028	Close
@@ -27992,7 +27992,7 @@ Relais d'Arpette	15/05/2027	Close
 Relais d'Arpette	15/05/2028	Close
 Relais d'Arpette	15/06/2027	90 available
 Relais d'Arpette	15/06/2028	Close
-Relais d'Arpette	15/07/2027	95 available
+Relais d'Arpette	15/07/2027	96 available
 Relais d'Arpette	15/07/2028	Close
 Relais d'Arpette	15/08/2027	71 available
 Relais d'Arpette	15/08/2028	Close
