@@ -4534,7 +4534,7 @@ Auberge la Grande Ourse	13/05/2027	Fully booked
 Auberge la Grande Ourse	13/05/2028	Close
 Auberge la Grande Ourse	13/06/2027	38 available
 Auberge la Grande Ourse	13/06/2028	Close
-Auberge la Grande Ourse	13/07/2027	1 available
+Auberge la Grande Ourse	13/07/2027	Fully booked
 Auberge la Grande Ourse	13/07/2028	Close
 Auberge la Grande Ourse	13/08/2027	Fully booked
 Auberge la Grande Ourse	13/08/2028	Close
@@ -4557,7 +4557,7 @@ Auberge la Grande Ourse	14/05/2027	Fully booked
 Auberge la Grande Ourse	14/05/2028	Close
 Auberge la Grande Ourse	14/06/2027	40 available
 Auberge la Grande Ourse	14/06/2028	Close
-Auberge la Grande Ourse	14/07/2027	3 available
+Auberge la Grande Ourse	14/07/2027	2 available
 Auberge la Grande Ourse	14/07/2028	Close
 Auberge la Grande Ourse	14/08/2027	Fully booked
 Auberge la Grande Ourse	14/08/2028	Close
@@ -9107,7 +9107,7 @@ Chalet Les Méandres (ex Tupilak)	27/04/2027	33 available
 Chalet Les Méandres (ex Tupilak)	27/04/2028	Close
 Chalet Les Méandres (ex Tupilak)	27/05/2027	33 available
 Chalet Les Méandres (ex Tupilak)	27/05/2028	Close
-Chalet Les Méandres (ex Tupilak)	27/06/2027	31 available
+Chalet Les Méandres (ex Tupilak)	27/06/2027	33 available
 Chalet Les Méandres (ex Tupilak)	27/06/2028	Close
 Chalet Les Méandres (ex Tupilak)	27/07/2027	40 available
 Chalet Les Méandres (ex Tupilak)	27/07/2028	Close
@@ -11897,7 +11897,7 @@ Gîte Le Moulin	25/06/2027	Fully booked
 Gîte Le Moulin	25/06/2028	Close
 Gîte Le Moulin	25/07/2027	Fully booked
 Gîte Le Moulin	25/07/2028	Close
-Gîte Le Moulin	25/08/2027	4 available
+Gîte Le Moulin	25/08/2027	2 available
 Gîte Le Moulin	25/08/2028	Close
 Gîte Le Moulin	25/09/2027	25 available
 Gîte Le Moulin	25/09/2028	Close
@@ -14070,7 +14070,7 @@ Gîte Michel Fagot	27/06/2027	8 available
 Gîte Michel Fagot	27/06/2028	Close
 Gîte Michel Fagot	27/07/2027	15 available
 Gîte Michel Fagot	27/07/2028	Close
-Gîte Michel Fagot	27/08/2027	8 available
+Gîte Michel Fagot	27/08/2027	6 available
 Gîte Michel Fagot	27/08/2028	Close
 Gîte Michel Fagot	27/09/2027	Fully booked
 Gîte Michel Fagot	27/09/2028	Close
@@ -21029,7 +21029,7 @@ La Fouly Lodge	22/06/2027	Fully booked
 La Fouly Lodge	22/06/2028	Close
 La Fouly Lodge	22/07/2027	1 available
 La Fouly Lodge	22/07/2028	Close
-La Fouly Lodge	22/08/2027	14 available
+La Fouly Lodge	22/08/2027	12 available
 La Fouly Lodge	22/08/2028	Close
 La Fouly Lodge	22/09/2027	9 available
 La Fouly Lodge	22/09/2028	Close
@@ -22470,7 +22470,7 @@ Pension en Plein Air	23/06/2027	33 available
 Pension en Plein Air	23/06/2028	Close
 Pension en Plein Air	23/07/2027	35 available
 Pension en Plein Air	23/07/2028	Close
-Pension en Plein Air	23/08/2027	64 available
+Pension en Plein Air	23/08/2027	62 available
 Pension en Plein Air	23/08/2028	Close
 Pension en Plein Air	23/09/2027	69 available
 Pension en Plein Air	23/09/2028	Close
@@ -23202,7 +23202,7 @@ Refuge Le Peuty	24/06/2027	1 available
 Refuge Le Peuty	24/06/2028	Close
 Refuge Le Peuty	24/07/2027	Fully booked
 Refuge Le Peuty	24/07/2028	Close
-Refuge Le Peuty	24/08/2027	9 available
+Refuge Le Peuty	24/08/2027	7 available
 Refuge Le Peuty	24/08/2028	Close
 Refuge Le Peuty	24/09/2027	21 available
 Refuge Le Peuty	24/09/2028	Close
@@ -27478,7 +27478,7 @@ Refuge du Fioux	25/06/2027	24 available
 Refuge du Fioux	25/06/2028	Close
 Refuge du Fioux	25/07/2027	5 available
 Refuge du Fioux	25/07/2028	Close
-Refuge du Fioux	25/08/2027	16 available
+Refuge du Fioux	25/08/2027	14 available
 Refuge du Fioux	25/08/2028	Close
 Refuge du Fioux	25/09/2027	Fully booked
 Refuge du Fioux	25/09/2028	Close
