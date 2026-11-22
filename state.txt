@@ -4350,7 +4350,7 @@ Auberge la Grande Ourse	05/05/2027	Fully booked
 Auberge la Grande Ourse	05/05/2028	Close
 Auberge la Grande Ourse	05/06/2027	Fully booked
 Auberge la Grande Ourse	05/06/2028	Close
-Auberge la Grande Ourse	05/07/2027	2 available
+Auberge la Grande Ourse	05/07/2027	Fully booked
 Auberge la Grande Ourse	05/07/2028	Close
 Auberge la Grande Ourse	05/08/2027	Fully booked
 Auberge la Grande Ourse	05/08/2028	Close
@@ -15253,7 +15253,7 @@ Gîte le Pontet	17/06/2027	34 available
 Gîte le Pontet	17/06/2028	Close
 Gîte le Pontet	17/07/2027	Fully booked
 Gîte le Pontet	17/07/2028	Close
-Gîte le Pontet	17/08/2027	43 available
+Gîte le Pontet	17/08/2027	41 available
 Gîte le Pontet	17/08/2028	Close
 Gîte le Pontet	17/09/2027	69 available
 Gîte le Pontet	17/09/2028	Close
@@ -19760,7 +19760,7 @@ Hôtel du Col de la Forclaz	28/06/2027	Fully booked
 Hôtel du Col de la Forclaz	28/06/2028	Close
 Hôtel du Col de la Forclaz	28/07/2027	Fully booked
 Hôtel du Col de la Forclaz	28/07/2028	Close
-Hôtel du Col de la Forclaz	28/08/2027	2 available
+Hôtel du Col de la Forclaz	28/08/2027	Fully booked
 Hôtel du Col de la Forclaz	28/08/2028	Close
 Hôtel du Col de la Forclaz	28/09/2027	20 available
 Hôtel du Col de la Forclaz	28/09/2028	Close
@@ -30171,7 +30171,7 @@ Rifugio Maison Vieille	19/06/2027	24 available
 Rifugio Maison Vieille	19/06/2028	Close
 Rifugio Maison Vieille	19/07/2027	5 available
 Rifugio Maison Vieille	19/07/2028	Close
-Rifugio Maison Vieille	19/08/2027	13 available
+Rifugio Maison Vieille	19/08/2027	11 available
 Rifugio Maison Vieille	19/08/2028	Close
 Rifugio Maison Vieille	19/09/2027	Fully booked
 Rifugio Maison Vieille	19/09/2028	Close
