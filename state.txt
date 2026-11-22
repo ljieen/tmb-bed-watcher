@@ -9107,7 +9107,7 @@ Chalet Les Méandres (ex Tupilak)	27/04/2027	33 available
 Chalet Les Méandres (ex Tupilak)	27/04/2028	Close
 Chalet Les Méandres (ex Tupilak)	27/05/2027	33 available
 Chalet Les Méandres (ex Tupilak)	27/05/2028	Close
-Chalet Les Méandres (ex Tupilak)	27/06/2027	33 available
+Chalet Les Méandres (ex Tupilak)	27/06/2027	31 available
 Chalet Les Méandres (ex Tupilak)	27/06/2028	Close
 Chalet Les Méandres (ex Tupilak)	27/07/2027	40 available
 Chalet Les Méandres (ex Tupilak)	27/07/2028	Close
