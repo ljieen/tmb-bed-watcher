@@ -539,7 +539,7 @@ Auberge Gîte Bon Abri	24/05/2027	35 available
 Auberge Gîte Bon Abri	24/05/2028	Close
 Auberge Gîte Bon Abri	24/06/2027	4 available
 Auberge Gîte Bon Abri	24/06/2028	Close
-Auberge Gîte Bon Abri	24/07/2027	51 available
+Auberge Gîte Bon Abri	24/07/2027	49 available
 Auberge Gîte Bon Abri	24/07/2028	Close
 Auberge Gîte Bon Abri	24/08/2027	17 available
 Auberge Gîte Bon Abri	24/08/2028	Close
@@ -813,7 +813,7 @@ Auberge Maya-Joie	05/07/2027	Close
 Auberge Maya-Joie	05/07/2028	Close
 Auberge Maya-Joie	05/08/2027	Fully booked
 Auberge Maya-Joie	05/08/2028	Close
-Auberge Maya-Joie	05/09/2027	1 available
+Auberge Maya-Joie	05/09/2027	Fully booked
 Auberge Maya-Joie	05/09/2028	Close
 Auberge Maya-Joie	05/10/2027	Fully booked
 Auberge Maya-Joie	05/10/2028	Close
@@ -22050,7 +22050,7 @@ Pension en Plein Air	06/07/2027	Fully booked
 Pension en Plein Air	06/07/2028	Close
 Pension en Plein Air	06/08/2027	44 available
 Pension en Plein Air	06/08/2028	Close
-Pension en Plein Air	06/09/2027	8 available
+Pension en Plein Air	06/09/2027	7 available
 Pension en Plein Air	06/09/2028	Close
 Pension en Plein Air	06/10/2027	Fully booked
 Pension en Plein Air	06/10/2028	Close
@@ -23899,7 +23899,7 @@ Refuge Les Ecuries de Charamillon	25/05/2027	Close
 Refuge Les Ecuries de Charamillon	25/05/2028	Close
 Refuge Les Ecuries de Charamillon	25/06/2027	26 available
 Refuge Les Ecuries de Charamillon	25/06/2028	Close
-Refuge Les Ecuries de Charamillon	25/07/2027	35 available
+Refuge Les Ecuries de Charamillon	25/07/2027	33 available
 Refuge Les Ecuries de Charamillon	25/07/2028	Close
 Refuge Les Ecuries de Charamillon	25/08/2027	22 available
 Refuge Les Ecuries de Charamillon	25/08/2028	Close
@@ -28372,7 +28372,7 @@ Rifugio Chapy Mont Blanc	04/07/2027	8 available
 Rifugio Chapy Mont Blanc	04/07/2028	Close
 Rifugio Chapy Mont Blanc	04/08/2027	Fully booked
 Rifugio Chapy Mont Blanc	04/08/2028	Close
-Rifugio Chapy Mont Blanc	04/09/2027	22 available
+Rifugio Chapy Mont Blanc	04/09/2027	21 available
 Rifugio Chapy Mont Blanc	04/09/2028	Close
 Rifugio Chapy Mont Blanc	04/10/2027	Close
 Rifugio Chapy Mont Blanc	04/10/2028	Close
@@ -29056,7 +29056,7 @@ Rifugio G. Bertone	03/07/2027	Fully booked
 Rifugio G. Bertone	03/07/2028	Close
 Rifugio G. Bertone	03/08/2027	Fully booked
 Rifugio G. Bertone	03/08/2028	Close
-Rifugio G. Bertone	03/09/2027	1 available
+Rifugio G. Bertone	03/09/2027	Fully booked
 Rifugio G. Bertone	03/09/2028	Close
 Rifugio G. Bertone	03/10/2027	Close
 Rifugio G. Bertone	03/10/2028	Close
