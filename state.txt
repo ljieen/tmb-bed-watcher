@@ -15391,7 +15391,7 @@ Gîte le Pontet	24/05/2027	Fully booked
 Gîte le Pontet	24/05/2028	Close
 Gîte le Pontet	24/06/2027	30 available
 Gîte le Pontet	24/06/2028	Close
-Gîte le Pontet	24/07/2027	5 available
+Gîte le Pontet	24/07/2027	7 available
 Gîte le Pontet	24/07/2028	Close
 Gîte le Pontet	24/08/2027	57 available
 Gîte le Pontet	24/08/2028	Close
