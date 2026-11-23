@@ -3733,7 +3733,7 @@ Auberge la Boërne	09/07/2027	Fully booked
 Auberge la Boërne	09/07/2028	Close
 Auberge la Boërne	09/08/2027	1 available
 Auberge la Boërne	09/08/2028	Close
-Auberge la Boërne	09/09/2027	2 available
+Auberge la Boërne	09/09/2027	1 available
 Auberge la Boërne	09/09/2028	Close
 Auberge la Boërne	09/10/2027	Fully booked
 Auberge la Boërne	09/10/2028	Close
@@ -4394,7 +4394,7 @@ Auberge la Grande Ourse	07/07/2027	Fully booked
 Auberge la Grande Ourse	07/07/2028	Close
 Auberge la Grande Ourse	07/08/2027	Fully booked
 Auberge la Grande Ourse	07/08/2028	Close
-Auberge la Grande Ourse	07/09/2027	1 available
+Auberge la Grande Ourse	07/09/2027	Fully booked
 Auberge la Grande Ourse	07/09/2028	Close
 Auberge la Grande Ourse	07/10/2027	Fully booked
 Auberge la Grande Ourse	07/10/2028	Close
@@ -4417,7 +4417,7 @@ Auberge la Grande Ourse	08/07/2027	Fully booked
 Auberge la Grande Ourse	08/07/2028	Close
 Auberge la Grande Ourse	08/08/2027	Fully booked
 Auberge la Grande Ourse	08/08/2028	Close
-Auberge la Grande Ourse	08/09/2027	Fully booked
+Auberge la Grande Ourse	08/09/2027	1 available
 Auberge la Grande Ourse	08/09/2028	Close
 Auberge la Grande Ourse	08/10/2027	Fully booked
 Auberge la Grande Ourse	08/10/2028	Close
@@ -7247,7 +7247,7 @@ Chalet Alpin du Tour (FFCAM)	08/07/2027	7 available
 Chalet Alpin du Tour (FFCAM)	08/07/2028	Close
 Chalet Alpin du Tour (FFCAM)	08/08/2027	14 available
 Chalet Alpin du Tour (FFCAM)	08/08/2028	Close
-Chalet Alpin du Tour (FFCAM)	08/09/2027	10 available
+Chalet Alpin du Tour (FFCAM)	08/09/2027	9 available
 Chalet Alpin du Tour (FFCAM)	08/09/2028	Close
 Chalet Alpin du Tour (FFCAM)	08/10/2027	Fully booked
 Chalet Alpin du Tour (FFCAM)	08/10/2028	Close
@@ -9276,7 +9276,7 @@ Gite le Randonneur du Mont Blanc	04/07/2027	20 available
 Gite le Randonneur du Mont Blanc	04/07/2028	Close
 Gite le Randonneur du Mont Blanc	04/08/2027	19 available
 Gite le Randonneur du Mont Blanc	04/08/2028	Close
-Gite le Randonneur du Mont Blanc	04/09/2027	3 available
+Gite le Randonneur du Mont Blanc	04/09/2027	1 available
 Gite le Randonneur du Mont Blanc	04/09/2028	Close
 Gite le Randonneur du Mont Blanc	04/10/2027	Fully booked
 Gite le Randonneur du Mont Blanc	04/10/2028	Close
@@ -14072,7 +14072,7 @@ Gîte Michel Fagot	28/05/2027	Fully booked
 Gîte Michel Fagot	28/05/2028	Close
 Gîte Michel Fagot	28/06/2027	15 available
 Gîte Michel Fagot	28/06/2028	Close
-Gîte Michel Fagot	28/07/2027	15 available
+Gîte Michel Fagot	28/07/2027	13 available
 Gîte Michel Fagot	28/07/2028	Close
 Gîte Michel Fagot	28/08/2027	Fully booked
 Gîte Michel Fagot	28/08/2028	Close
@@ -15391,7 +15391,7 @@ Gîte le Pontet	24/05/2027	Fully booked
 Gîte le Pontet	24/05/2028	Close
 Gîte le Pontet	24/06/2027	30 available
 Gîte le Pontet	24/06/2028	Close
-Gîte le Pontet	24/07/2027	7 available
+Gîte le Pontet	24/07/2027	5 available
 Gîte le Pontet	24/07/2028	Close
 Gîte le Pontet	24/08/2027	57 available
 Gîte le Pontet	24/08/2028	Close
