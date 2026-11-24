@@ -221,7 +221,7 @@ Auberge Gîte Bon Abri	10/07/2027	19 available
 Auberge Gîte Bon Abri	10/07/2028	Close
 Auberge Gîte Bon Abri	10/08/2027	20 available
 Auberge Gîte Bon Abri	10/08/2028	Close
-Auberge Gîte Bon Abri	10/09/2027	34 available
+Auberge Gîte Bon Abri	10/09/2027	21 available
 Auberge Gîte Bon Abri	10/09/2028	Close
 Auberge Gîte Bon Abri	10/10/2027	Fully booked
 Auberge Gîte Bon Abri	10/10/2028	Close
@@ -10084,7 +10084,7 @@ Gîte Alpage de La Peule	09/07/2027	4 available
 Gîte Alpage de La Peule	09/07/2028	Close
 Gîte Alpage de La Peule	09/08/2027	6 available
 Gîte Alpage de La Peule	09/08/2028	Close
-Gîte Alpage de La Peule	09/09/2027	14 available
+Gîte Alpage de La Peule	09/09/2027	15 available
 Gîte Alpage de La Peule	09/09/2028	Close
 Gîte Alpage de La Peule	09/10/2027	Fully booked
 Gîte Alpage de La Peule	09/10/2028	Close
@@ -20130,7 +20130,7 @@ La Ferme à Piron	16/05/2027	Close
 La Ferme à Piron	16/05/2028	Close
 La Ferme à Piron	16/06/2027	2 available
 La Ferme à Piron	16/06/2028	Close
-La Ferme à Piron	16/07/2027	2 available
+La Ferme à Piron	16/07/2027	Fully booked
 La Ferme à Piron	16/07/2028	Close
 La Ferme à Piron	16/08/2027	3 available
 La Ferme à Piron	16/08/2028	Close
@@ -20428,7 +20428,7 @@ La Ferme à Piron	29/05/2027	Close
 La Ferme à Piron	29/05/2028	Close
 La Ferme à Piron	29/06/2027	Fully booked
 La Ferme à Piron	29/06/2028	Close
-La Ferme à Piron	29/07/2027	10 available
+La Ferme à Piron	29/07/2027	8 available
 La Ferme à Piron	29/07/2028	Close
 La Ferme à Piron	29/08/2027	1 available
 La Ferme à Piron	29/08/2028	Close
@@ -20994,7 +20994,7 @@ La Fouly Lodge	23/06/2027	Fully booked
 La Fouly Lodge	23/06/2028	Close
 La Fouly Lodge	23/07/2027	2 available
 La Fouly Lodge	23/07/2028	Close
-La Fouly Lodge	23/08/2027	10 available
+La Fouly Lodge	23/08/2027	7 available
 La Fouly Lodge	23/08/2028	Close
 La Fouly Lodge	23/09/2027	19 available
 La Fouly Lodge	23/09/2028	Close
@@ -22933,7 +22933,7 @@ Refuge Le Peuty	15/07/2027	Fully booked
 Refuge Le Peuty	15/07/2028	Close
 Refuge Le Peuty	15/08/2027	Fully booked
 Refuge Le Peuty	15/08/2028	Close
-Refuge Le Peuty	15/09/2027	3 available
+Refuge Le Peuty	15/09/2027	1 available
 Refuge Le Peuty	15/09/2028	Close
 Refuge Le Peuty	15/10/2027	Close
 Refuge Le Peuty	15/10/2028	Close
