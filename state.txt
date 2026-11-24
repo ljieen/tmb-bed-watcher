@@ -7325,7 +7325,7 @@ Chalet Alpin du Tour (FFCAM)	12/05/2027	20 available
 Chalet Alpin du Tour (FFCAM)	12/05/2028	Close
 Chalet Alpin du Tour (FFCAM)	12/06/2027	Fully booked
 Chalet Alpin du Tour (FFCAM)	12/06/2028	Close
-Chalet Alpin du Tour (FFCAM)	12/07/2027	5 available
+Chalet Alpin du Tour (FFCAM)	12/07/2027	8 available
 Chalet Alpin du Tour (FFCAM)	12/07/2028	Close
 Chalet Alpin du Tour (FFCAM)	12/08/2027	5 available
 Chalet Alpin du Tour (FFCAM)	12/08/2028	Close
@@ -23566,7 +23566,7 @@ Refuge Les Ecuries de Charamillon	12/05/2027	Close
 Refuge Les Ecuries de Charamillon	12/05/2028	Close
 Refuge Les Ecuries de Charamillon	12/06/2027	39 available
 Refuge Les Ecuries de Charamillon	12/06/2028	Close
-Refuge Les Ecuries de Charamillon	12/07/2027	34 available
+Refuge Les Ecuries de Charamillon	12/07/2027	31 available
 Refuge Les Ecuries de Charamillon	12/07/2028	Close
 Refuge Les Ecuries de Charamillon	12/08/2027	41 available
 Refuge Les Ecuries de Charamillon	12/08/2028	Close
