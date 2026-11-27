@@ -2537,7 +2537,7 @@ Auberge des Glaciers	19/07/2027	Fully booked
 Auberge des Glaciers	19/07/2028	Close
 Auberge des Glaciers	19/08/2027	30 available
 Auberge des Glaciers	19/08/2028	Close
-Auberge des Glaciers	19/09/2027	48 available
+Auberge des Glaciers	19/09/2027	47 available
 Auberge des Glaciers	19/09/2028	Close
 Auberge des Glaciers	19/10/2027	Fully booked
 Auberge des Glaciers	19/10/2028	Close
@@ -3192,7 +3192,7 @@ Auberge du Truc	17/06/2027	Fully booked
 Auberge du Truc	17/06/2028	Close
 Auberge du Truc	17/07/2027	13 available
 Auberge du Truc	17/07/2028	Close
-Auberge du Truc	17/08/2027	9 available
+Auberge du Truc	17/08/2027	8 available
 Auberge du Truc	17/08/2028	Close
 Auberge du Truc	17/09/2027	15 available
 Auberge du Truc	17/09/2028	Close
@@ -8612,7 +8612,7 @@ Chalet Les Méandres (ex Tupilak)	08/07/2027	36 available
 Chalet Les Méandres (ex Tupilak)	08/07/2028	Close
 Chalet Les Méandres (ex Tupilak)	08/08/2027	35 available
 Chalet Les Méandres (ex Tupilak)	08/08/2028	Close
-Chalet Les Méandres (ex Tupilak)	08/09/2027	31 available
+Chalet Les Méandres (ex Tupilak)	08/09/2027	30 available
 Chalet Les Méandres (ex Tupilak)	08/09/2028	Close
 Chalet Les Méandres (ex Tupilak)	08/10/2027	40 available
 Chalet Les Méandres (ex Tupilak)	08/10/2028	Close
@@ -14868,7 +14868,7 @@ Gîte le Pontet	05/04/2027	Fully booked
 Gîte le Pontet	05/04/2028	Close
 Gîte le Pontet	05/05/2027	Fully booked
 Gîte le Pontet	05/05/2028	Close
-Gîte le Pontet	05/06/2027	65 available
+Gîte le Pontet	05/06/2027	63 available
 Gîte le Pontet	05/06/2028	Close
 Gîte le Pontet	05/07/2027	Fully booked
 Gîte le Pontet	05/07/2028	Close
@@ -18033,7 +18033,7 @@ Hôtel Funivia	20/07/2027	8 available
 Hôtel Funivia	20/07/2028	Close
 Hôtel Funivia	20/08/2027	Fully booked
 Hôtel Funivia	20/08/2028	Close
-Hôtel Funivia	20/09/2027	6 available
+Hôtel Funivia	20/09/2027	2 available
 Hôtel Funivia	20/09/2028	Close
 Hôtel Funivia	20/10/2027	Fully booked
 Hôtel Funivia	20/10/2028	Close
@@ -22906,7 +22906,7 @@ Refuge Le Peuty	18/07/2027	Fully booked
 Refuge Le Peuty	18/07/2028	Close
 Refuge Le Peuty	18/08/2027	1 available
 Refuge Le Peuty	18/08/2028	Close
-Refuge Le Peuty	18/09/2027	13 available
+Refuge Le Peuty	18/09/2027	12 available
 Refuge Le Peuty	18/09/2028	Close
 Refuge Le Peuty	18/10/2027	Close
 Refuge Le Peuty	18/10/2028	Close
@@ -24833,7 +24833,7 @@ Refuge de la Balme	10/07/2027	Fully booked
 Refuge de la Balme	10/07/2028	Close
 Refuge de la Balme	10/08/2027	Fully booked
 Refuge de la Balme	10/08/2028	Close
-Refuge de la Balme	10/09/2027	Fully booked
+Refuge de la Balme	10/09/2027	1 available
 Refuge de la Balme	10/09/2028	Close
 Refuge de la Balme	10/10/2027	Fully booked
 Refuge de la Balme	10/10/2028	Close
@@ -29961,7 +29961,7 @@ Rifugio Maison Vieille	19/06/2027	24 available
 Rifugio Maison Vieille	19/06/2028	Close
 Rifugio Maison Vieille	19/07/2027	5 available
 Rifugio Maison Vieille	19/07/2028	Close
-Rifugio Maison Vieille	19/08/2027	7 available
+Rifugio Maison Vieille	19/08/2027	6 available
 Rifugio Maison Vieille	19/08/2028	Close
 Rifugio Maison Vieille	19/09/2027	Fully booked
 Rifugio Maison Vieille	19/09/2028	Close
@@ -29984,7 +29984,7 @@ Rifugio Maison Vieille	20/06/2027	19 available
 Rifugio Maison Vieille	20/06/2028	Close
 Rifugio Maison Vieille	20/07/2027	Fully booked
 Rifugio Maison Vieille	20/07/2028	Close
-Rifugio Maison Vieille	20/08/2027	26 available
+Rifugio Maison Vieille	20/08/2027	25 available
 Rifugio Maison Vieille	20/08/2028	Close
 Rifugio Maison Vieille	20/09/2027	Fully booked
 Rifugio Maison Vieille	20/09/2028	Close
