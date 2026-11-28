@@ -8550,7 +8550,7 @@ Chalet Les Méandres (ex Tupilak)	06/05/2027	33 available
 Chalet Les Méandres (ex Tupilak)	06/05/2028	Close
 Chalet Les Méandres (ex Tupilak)	06/06/2027	38 available
 Chalet Les Méandres (ex Tupilak)	06/06/2028	Close
-Chalet Les Méandres (ex Tupilak)	06/07/2027	35 available
+Chalet Les Méandres (ex Tupilak)	06/07/2027	38 available
 Chalet Les Méandres (ex Tupilak)	06/07/2028	Close
 Chalet Les Méandres (ex Tupilak)	06/08/2027	40 available
 Chalet Les Méandres (ex Tupilak)	06/08/2028	Close
@@ -8573,7 +8573,7 @@ Chalet Les Méandres (ex Tupilak)	07/05/2027	33 available
 Chalet Les Méandres (ex Tupilak)	07/05/2028	Close
 Chalet Les Méandres (ex Tupilak)	07/06/2027	40 available
 Chalet Les Méandres (ex Tupilak)	07/06/2028	Close
-Chalet Les Méandres (ex Tupilak)	07/07/2027	19 available
+Chalet Les Méandres (ex Tupilak)	07/07/2027	22 available
 Chalet Les Méandres (ex Tupilak)	07/07/2028	Close
 Chalet Les Méandres (ex Tupilak)	07/08/2027	38 available
 Chalet Les Méandres (ex Tupilak)	07/08/2028	Close
@@ -9140,7 +9140,7 @@ Gite le Randonneur du Mont Blanc	01/06/2027	Fully booked
 Gite le Randonneur du Mont Blanc	01/06/2028	Close
 Gite le Randonneur du Mont Blanc	01/07/2027	4 available
 Gite le Randonneur du Mont Blanc	01/07/2028	Close
-Gite le Randonneur du Mont Blanc	01/08/2027	30 available
+Gite le Randonneur du Mont Blanc	01/08/2027	29 available
 Gite le Randonneur du Mont Blanc	01/08/2028	Close
 Gite le Randonneur du Mont Blanc	01/09/2027	16 available
 Gite le Randonneur du Mont Blanc	01/09/2028	Close
@@ -9820,7 +9820,7 @@ Gite le Randonneur du Mont Blanc	31/03/2027	Fully booked
 Gite le Randonneur du Mont Blanc	31/03/2028	Close
 Gite le Randonneur du Mont Blanc	31/05/2027	Fully booked
 Gite le Randonneur du Mont Blanc	31/05/2028	Close
-Gite le Randonneur du Mont Blanc	31/07/2027	33 available
+Gite le Randonneur du Mont Blanc	31/07/2027	32 available
 Gite le Randonneur du Mont Blanc	31/07/2028	Close
 Gite le Randonneur du Mont Blanc	31/08/2027	7 available
 Gite le Randonneur du Mont Blanc	31/08/2028	Close
@@ -14243,7 +14243,7 @@ Gîte Saint Louis	09/07/2027	Fully booked
 Gîte Saint Louis	09/07/2028	Close
 Gîte Saint Louis	09/08/2027	10 available
 Gîte Saint Louis	09/08/2028	Close
-Gîte Saint Louis	09/09/2027	2 available
+Gîte Saint Louis	09/09/2027	Fully booked
 Gîte Saint Louis	09/09/2028	Close
 Gîte Saint Louis	09/10/2027	Fully booked
 Gîte Saint Louis	09/10/2028	Close
@@ -20062,7 +20062,7 @@ La Ferme à Piron	18/06/2027	11 available
 La Ferme à Piron	18/06/2028	Close
 La Ferme à Piron	18/07/2027	Fully booked
 La Ferme à Piron	18/07/2028	Close
-La Ferme à Piron	18/08/2027	10 available
+La Ferme à Piron	18/08/2027	Fully booked
 La Ferme à Piron	18/08/2028	Close
 La Ferme à Piron	18/09/2027	14 available
 La Ferme à Piron	18/09/2028	Close
@@ -23033,7 +23033,7 @@ Refuge Le Peuty	25/06/2027	Fully booked
 Refuge Le Peuty	25/06/2028	Close
 Refuge Le Peuty	25/07/2027	Fully booked
 Refuge Le Peuty	25/07/2028	Close
-Refuge Le Peuty	25/08/2027	17 available
+Refuge Le Peuty	25/08/2027	3 available
 Refuge Le Peuty	25/08/2028	Close
 Refuge Le Peuty	25/09/2027	19 available
 Refuge Le Peuty	25/09/2028	Close
@@ -26635,7 +26635,7 @@ Refuge des Prés	29/05/2027	Close
 Refuge des Prés	29/05/2028	Close
 Refuge des Prés	29/06/2027	Fully booked
 Refuge des Prés	29/06/2028	Close
-Refuge des Prés	29/07/2027	2 available
+Refuge des Prés	29/07/2027	1 available
 Refuge des Prés	29/07/2028	Close
 Refuge des Prés	29/08/2027	4 available
 Refuge des Prés	29/08/2028	Close
